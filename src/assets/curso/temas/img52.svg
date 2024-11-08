@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="410" viewBox="0 0 420 410">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.647" gradientTransform="translate(0.174) scale(0.652 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0.531" stop-color="#fff"/>
+      <stop offset="0.845" stop-color="#dedede"/>
+      <stop offset="1" stop-color="#ccc"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" r="0.647" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="Grupo_1102801" data-name="Grupo 1102801" transform="translate(-914.667 -8053.622)">
+    <path id="Trazado_877272" data-name="Trazado 877272" d="M10,0H410a10,10,0,0,1,10,10V400a10,10,0,0,1-10,10H10A10,10,0,0,1,0,400V10A10,10,0,0,1,10,0Z" transform="translate(914.667 8053.622)" fill="#fff"/>
+    <g id="Grupo_80247" data-name="Grupo 80247" transform="translate(212.036 6822.802)">
+      <rect id="Rectángulo_23045" data-name="Rectángulo 23045" width="1.124" height="286.965" transform="translate(902.675 1286.855)" fill="#12263f"/>
+      <ellipse id="Elipse_7312" data-name="Elipse 7312" cx="32.217" cy="21" rx="32.217" ry="21" transform="translate(960.941 1299.391)" fill="url(#radial-gradient)"/>
+      <ellipse id="Elipse_7313" data-name="Elipse 7313" cx="32.217" cy="21" rx="32.217" ry="21" transform="translate(944.767 1425.522)" fill="url(#radial-gradient-2)"/>
+      <ellipse id="Elipse_7314" data-name="Elipse 7314" cx="32.217" cy="21" rx="32.217" ry="21" transform="translate(823.115 1429)" fill="url(#radial-gradient-2)"/>
+      <ellipse id="Elipse_7315" data-name="Elipse 7315" cx="32.217" cy="21" rx="32.217" ry="21" transform="translate(760.724 1504.217)" fill="url(#radial-gradient)"/>
+      <rect id="Rectángulo_23046" data-name="Rectángulo 23046" width="323" height="0.928" transform="translate(751.631 1417.478)"/>
+      <text id="Producto_1" data-name="Producto 1" transform="translate(993.631 1362.82)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-38.918" y="0">Producto 1</tspan></text>
+      <text id="Producto_4" data-name="Producto 4" transform="translate(979.631 1484.82)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-38.918" y="0">Producto 4</tspan></text>
+      <text id="Producto_3" data-name="Producto 3" transform="translate(855.631 1492.82)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-38.918" y="0">Producto 3</tspan></text>
+      <text id="Producto_2" data-name="Producto 2" transform="translate(794.631 1564.82)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-38.918" y="0">Producto 2</tspan></text>
+      <text id="Café_de_sabor_suave_Café_de_sabor_fuerte" data-name="Café de sabor suave
+Café de sabor fuerte" transform="translate(906.631 1597.82)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-72.297" y="0">Café de sabor suave</tspan><tspan x="-72.586" y="20">Café de sabor fuerte</tspan></text>
+      <text id="Café_de_sabor_suave_Café_de_sabor_fuerte-2" data-name="Café de sabor suave
+Café de sabor fuerte" transform="translate(903.631 1259.82)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-72.297" y="0">Café de sabor suave</tspan><tspan x="-72.586" y="20">Café de sabor fuerte</tspan></text>
+      <text id="Café_de_precio_alto" data-name="Café de 
+precio alto" transform="translate(1074.631 1383.82)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-29.191" y="0">Café de </tspan><tspan x="-37.422" y="20">precio alto</tspan></text>
+      <text id="Café_de_precio_bajo" data-name="Café de 
+precio bajo" transform="translate(751.631 1383.82)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-29.191" y="0">Café de </tspan><tspan x="-39.344" y="20">precio bajo</tspan></text>
+    </g>
+  </g>
+</svg>
