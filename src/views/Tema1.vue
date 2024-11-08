@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Mercadeo
+      h1 Las necesidades y el deseo
     
     p.mb-5 Un cliente es la persona o entidad que accede a un producto o servicio mediante una transacción financiera, dinero u otro medio de pago. Es quien compra y quien consume. La siguiente figura ilustra estos roles de comprador y consumidor:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")

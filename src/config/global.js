@@ -32,72 +32,186 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'El cliente',
+        titulo: 'Las necesidades y el deseo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Mercado de consumo',
-            hash: 't_1_1',
-          },
-          {
-            numero: '1.2',
-            titulo: ' Mercados industriales',
-            hash: 't_1_2',
-          },
-          {
-            numero: '1.3',
-            titulo: 'Mercados de revendedores',
-            hash: 't_1_3',
-          },
-          {
-            numero: '1.4',
-            titulo: 'Mercados de gobierno',
-            hash: 't_1_4',
-          },
-          {
-            numero: '1.5',
-            titulo: 'Mercados internacionales',
-            hash: 't_1_5',
-          },
-        ],
+        subMenu: [],
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Relación del mercadeo y los clientes',
+        titulo: 'El producto',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Atraer clientes',
+            titulo: 'Atributos del producto ',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Retener clientes',
+            titulo: 'Niveles de productos',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: 'Fidelizar clientes',
+            titulo: 'Clasificación de productos',
             hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Características del producto',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Empaque',
+            hash: 't_2_5',
+          },
+          {
+            numero: '2.6',
+            titulo: 'Etiqueta',
+            hash: 't_2_6',
+          },
+          {
+            numero: '2.7',
+            titulo: 'Envase',
+            hash: 't_2_7',
+          },
+          {
+            numero: '2.8',
+            titulo: 'Embalaje',
+            hash: 't_2_8',
+          },
+          {
+            numero: '2.9',
+            titulo: 'Portafolio de productos',
+            hash: 't_2_9',
+          },
+          {
+            numero: '2.10',
+            titulo: 'Ciclo de vida',
+            hash: 't_2_10',
           },
         ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Clasificación de clientes',
+        titulo: 'El surtido',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Estructura del surtido',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Dimensiones del surtido',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Clasificación del surtido',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Características',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Cualidades del surtido',
+            hash: 't_3_5',
+          },
+          {
+            numero: '3.6',
+            titulo: 'El lineal',
+            hash: 't_3_6',
+          },
+          {
+            numero: '3.7',
+            titulo: 'Implantación',
+            hash: 't_3_7',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Prospección de los clientes',
+        titulo: 'Servicio al cliente',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Atributos del servicio',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Características del servicio',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Tipos de servicio al cliente',
+            hash: 't_4_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Negociación',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Características',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Etapas de la negociación ',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Tipos de negociación',
+            hash: 't_5_3',
+          },
+          {
+            numero: '5.4',
+            titulo: 'Aplicabilidad',
+            hash: 't_5_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Propuesta comercial',
         desarrolloContenidos: true,
         subMenu: [],
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: ' Herramientas ofimáticas',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo: ' Clasificación',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo: 'Tipos de herramientas',
+            hash: 't_7_2',
+          },
+        ],
       },
     ],
     subMenu: [
