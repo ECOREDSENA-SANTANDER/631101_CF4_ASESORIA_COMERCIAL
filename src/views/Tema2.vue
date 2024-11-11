@@ -5,101 +5,61 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Relación del mercadeo y los clientes
+      h1 El producto
+    
+    p En el siguiente video se describe de manera breve el termino producto y sus características: 
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/sAUSTEJgb5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video: El producto
+    .py-3
+    p No solo incluye los objetos que se pueden adquirir o comprar, como carros, computadores, teléfonos celulares, entre otros; pues esta definición incluye aquello que no es tangible pero que lo disfrutamos, como eventos, ingreso a lugares, ideas o una mezcla de todo esto. El concepto “producto” se aborda en el sentido más amplio que incluye todo lo anterior; así un carro Toyota, una moto Pulsar y un café de Juan Valdez son productos, también lo son un viaje a Santa Marta, una asesoría o una capacitación en línea.
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-12
+        .cajon.color-acento-contenido.p-4
+          .row.justify-content-center.align-items-center
+            .col-lg-8
+              p La American Marketing Asociation (A.M.A.) define producto (en inglés: product) y menciona lo siguiente: “Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales”.
+            .col-lg-2 
+              img(src='@/assets/curso/temas/Tema2/img2.png', alt='tema2')
+    
+    p En el mundo de la mercadotecnia, también encontramos otras definiciones de productos:
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-6.col-8
         img.py-2(src='@/assets/curso/temas/Tema2/img01.png', alt='tema2')
-      .col-lg-8
-        p El #[em marketing] relacional de acuerdo con Gronroos (1994), es el “conjunto de relaciones a largo plazo que las empresas pretenden crear, mantener y fomentar con clientes, con el objetivo de alcanzar una relación sólida y duradera, mantener el mayor número de negocios con sus clientes y obtener el mayor beneficio” (p.142). 
-        p La empresa utiliza herramientas de mercadeo y su portafolio de ofertas para encontrar la mejor manera de crear valor, lo que fomenta una relación a largo plazo con el cliente. A continuación, se presentan aspectos básicos de la gestión de clientes, incluyendo cómo captarlos y fidelizarlos a través del desarrollo de acciones promocionales y la atención a sus quejas y reclamaciones. 
+      .col-lg-7.mb-5.mb-lg-0
+        .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            h3.text-regular Un producto es un bien, servicio o idea consistente en un conjunto de atributos, tangibles e intangibles, que satisfacen al consumidor y reciben a cambio de dinero o alguna otra unidad de valor 
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            .h5.mb-0 (Mullins, 2007).
+     
 
-    p De acuerdo con esto, Gronroos (1990) (en Agüero, 2014, p. 8), propone las siguientes funciones del marketing relacional que debe llevar una empresa:
+        .col-lg-12.mb-5.mb-lg-0
+          .bloque-texto-b.p-4
+            .bloque-texto-b__texto
+              i.fas.fa-quote-left
+              h3.text-regular Para Kotler (2007), en su libro Marketing; un producto se define como “todo aquello que se puede ofrecer en el mercado para su atención, adquisición, consumo, que satisface un deseo o una necesidad”.
+              i.fas.fa-quote-right
     
-    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
-      .col-lg-10
-        .titulo-sexto.color-secundario.mb-5
-          h5 Figura 6. 
-          | Funciones del marketing relacional
-        img(src='@/assets/curso/temas/Tema2/img01.svg' alt='')
-    .py-3
-    p Con base en lo anterior, se concluye que toda empresa que quiera alcanzar el éxito dentro del mercado debe enfocarse en el cliente. 
-    
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
-        .cajon.color-acento-contenido.p-4.mb-4
-          p Solo las empresas que conocen y entienden de mejor manera las necesidades, los intereses y deseos de sus clientes, son aquellas capaces de preparar las mejores propuestas de productos para ser entregados al mercado .
-    
+    p Desde la perspectiva de los clientes, se adquieren los productos como un medio para satisfacer sus necesidades, porque con ellos se compran los beneficios que trae consigo cada uno de ellos, es un “satisfactor de su necesidad”. Desde el punto de vista del vendedor, el producto es una herramienta que permite atraer clientes, por eso debe conocer muy bien los atributos del producto para que pueda divulgarlos y darlos a conocer de manera correcta. Desde el mercadeo, el producto es un elemento importante para toda la estrategia que se vaya a diseñar; es decir, el marketing mix, centra su planificación desde los beneficios del producto para obtener una mayor rentabilidad.
+    p El producto es un conjunto de elementos tangibles e intangibles que son percibidos por el cliente como los satisfactores de sus necesidades. El consumidor está en un constante aprendizaje, porque “compran algo más que un producto”, lo que compran es un conjunto de deseos, expectativas, ideales, entre otras cosas que se hacen tangibles con su adquisición.
+
     separador
     #t_2_1.titulo-segundo.mb-4
-      h2 2.1 Atraer clientes
+      h2 2.1. Atributos del producto
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
-        p Para atraer clientes a la empresa, soportados en el portafolio de productos y su valor agregado, esta debe seguir un proceso de captación. Hay que destacar que cada empresa y cada tipo de cliente necesita un proceso adaptado a sus características y particularidades propias. A continuación,  se presenta un proceso general que sirve de modelo para aquellas empresas que quieren mantener una base de clientes sólida y en crecimiento:
-    
-    .row.justify-content-center.align-items-center
-      .col-lg-10.mb-4
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row.col-xl-11.m-auto(titulo="Identificar a los clientes")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
-              .col-lg-12
-                p.mb-2 Se logra mediante la prospección de clientes potenciales. La empresa debe buscar aquellos clientes que podrían convertirse en compradores y hacer todo lo mercadológicamente posible para captarlos y que puedan reportar beneficios.
-                p Aquí la segmentación de esos clientes juega un papel muy importante, pues se trata de dividirlos en grupos homogéneos a los que se les pueda dirigir la oferta de la empresa. En este punto se trata de observar e identificar tantos segmentos como se pueda y luego ver cuáles son de interés. La empresa debe mirar a qué otros tipos de clientes podría dirigirse además de los actuales. Por ejemplo:
-                ul.lista-ul--color
-                  li
-                    i.fas.fa-circle-check
-                    | Clientes fáciles de captar y de retener.
-                  li
-                    i.fas.fa-circle-check
-                    | Clientes fáciles de captar, pero difíciles de retener.
-                  li
-                    i.fas.fa-circle-check
-                    | Clientes difíciles de captar, pero fáciles de retener.
-                  li
-                    i.fas.fa-circle-check
-                    | Clientes difíciles de captar y de retener.
+        p Los atributos, también pueden definirse como “funciones del producto”, las funciones son los atributos tangibles e intangibles del producto, que por su diseño, soluciones a los problemas y soluciones a las necesidades del cliente le generan satisfacciones.
+        p La mayoría de los clientes, busca más los beneficios que el producto mismo, por tanto, la empresa puede ofrecer un conjunto de atributos intangibles que acompañan el producto. Así mismo, la empresa puede concentrar sus esfuerzos en ofrecer productos intangibles (servicios) lo que hoy se denominan “experiencias” que se convierten en objetos de valor para el cliente. Hoy día, las experiencias se han convertido en un factor diferenciador entre la empresa y sus competencias.
+        p Los atributos de un producto pueden ser tangibles e intangibles y juntos, representan lo que puede denominarse “personalidad del producto”. Aunque se presentan unos atributos que pueden ser comunes, estos pueden cambiar o valorarse de forma diferente, dependiendo del tipo de producto.
+        p Basado en lo anterior, los principales atributos son:
 
-          
-          .row.col-xl-11.m-auto(titulo="Seleccionar clientes")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
-              .col-lg-12
-                p.mb-2 Luego que se identifican los segmentos, se procede a analizarlos y se determina si son clientes potenciales y con ello, tomar una decisión sobre si se invertirá tiempo y dinero en ellos o no. Este análisis se tendrá que llevar a cabo durante todo el proceso de venta a medida que se va obteniendo más datos de este nuevo consumidor.
-                p.mb-2 La empresa debe determinar quiénes son esos clientes, cuya adquisición no solo va a aumentar la cuota de mercado a corto plazo, sino que elevará la rentabilidad y los beneficios de la empresa a largo plazo.
-                p.mb-2 Determinar el segmento de mercado es más atractivo para la empresa pues se pueden plantear diversas cuestiones como:
-                ul.lista-ul--color
-                  li
-                    i.fas.fa-circle-check
-                    | El volumen de productos o servicios demandado.
-
-                  li
-                    i.fas.fa-circle-check
-                    | Conocer los atributos del producto o servicio que se están demandando y que tiene la competencia.
-
-                  li
-                    i.fas.fa-circle-check
-                    | Mirar el tiempo de permanencia como clientes.
-
-                  li
-                    i.fas.fa-circle-check
-                    | Su distribución geográfica.
-
-                  li
-                    i.fas.fa-circle-check
-                    | La posibilidad de generar boca a boca.
-
-                  li
-                    i.fas.fa-circle-check
-                    | Tener en cuenta el comportamiento de compra.
-          
-          
-          .row.col-xl-11.m-auto(titulo="Captar clientes")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
-              .col-lg-12
-                p.mb-2 La captación de clientes es el proceso de incorporar nuevos clientes a la empresa, con el propósito de que compren los productos de la misma y se conviertan en una fuente de utilidad para el negocio. Por tanto, una vez que se seleccionan los segmentos más representativos, el siguiente paso es establecer a través de qué medios hay que dirigirse a dichos segmentos.
-                p Para ello, la empresa debe destinar recursos humanos, monetarios y de tiempo que deben ser tenidos en cuenta a la hora de realizar la comunicación para captar clientes. Todo lo anterior con el objetivo de obtener pleno conocimiento en la forma como estos se comportan en un proceso de compra.
-    p De acuerdo con Promove Consultoría e Formación SLNE (2012), existen acciones establecidas para captar clientes:
-     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         SlyderF(columnas="col-lg-4 col-xl-4 col-md-6").mb-5
@@ -109,8 +69,8 @@
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img02.png' alt='AvatarTop')
                   .row.justify-content-center
                     .col-10.mb-4
-                      h4.text-center.mb-0 Fomentar que los clientes actuales informen o recomienden
-                  p.text-center(data-aos="fade-right") El establecimiento a otros posibles clientes o bien pongan al empresario en contacto con ellos.
+                      h4.bgw.text-center.mb-0.p-2 Físicos
+                  p.text-center(data-aos="fade-right") Son aquellos que por su material o técnica lo hacen apto para determinadas funciones y usos.
             
             .tarjeta.color.p-4
               .row.justify-content-center
@@ -118,9 +78,8 @@
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img03.png' alt='AvatarTop')
                   .row.justify-content-center
                     .col-10.mb-4
-                      h4.text-center.mb-0 Exposición pública y demostraciones
-
-                  p.text-center(data-aos="fade-right") Contacto directo con el segmento de clientes que se quiere captar. Por ejemplo, un supermercado puede ofrecer degustaciones gratuitas de determinados productos.
+                      h4.bgw.text-center.mb-0.p-2 Precio
+                  p.text-center(data-aos="fade-right") Este atributo toma una gran importancia al momento de tomar la decisión de adquirir el producto.
             
             .tarjeta.color.p-4
               .row.justify-content-center
@@ -128,8 +87,8 @@
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img04.png' alt='AvatarTop')
                   .row.justify-content-center
                     .col-10.mb-4
-                      h4.text-center.mb-0 Establecer redes de contacto
-                  p.text-center(data-aos="fade-right") Buscar y contactar con los clientes allí donde estén, por ejemplo, un establecimiento de ropa y complementos deportivos puede financiar un club de fútbol de aficionados.
+                      h4.bgw.text-center.mb-0.p-2 Envase
+                  p.text-center(data-aos="fade-right") Es el elemento que protege al producto y que junto al diseño, adquiere un gran valor promocional y de imagen.
             
             .tarjeta.color.p-4
               .row.justify-content-center
@@ -137,8 +96,8 @@
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img05.png' alt='AvatarTop')
                   .row.justify-content-center
                     .col-10.mb-4
-                      h4.text-center.mb-0 Localizarlos
-                  p.text-center(data-aos="fade-right") En caso de que los clientes sean otros negocios se puede buscar en registros públicos, directorios, entre otros.
+                      h4.bgw.text-center.mb-0.p-2 Diseño
+                  p.text-center(data-aos="fade-right") Permiten, en mayor o menor grado, la identificación del producto o la empresa.
             
             .tarjeta.color.p-4
               .row.justify-content-center
@@ -146,9 +105,8 @@
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img06.png' alt='AvatarTop')
                   .row.justify-content-center
                     .col-10.mb-4
-                      h4.text-center.mb-0 Hacerse ver
-
-                  p.text-center(data-aos="fade-right") Cartel anunciador, escaparate bien organizado e iluminado, propaganda escrita, anuncios y notas de prensa en medios de comunicación.
+                      h4.bgw.text-center.mb-0.p-2 Marca
+                  p.text-center(data-aos="fade-right") Facilita la identificación del producto y que asociado a otro atributo, permite su recuerdo.
             
             .tarjeta.color.p-4
               .row.justify-content-center
@@ -156,154 +114,122 @@
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img07.png' alt='AvatarTop')
                   .row.justify-content-center
                     .col-10.mb-4
-                      h4.text-center.mb-0 Contactar con los clientes utilizando sitios #[em web]
-                  p.text-center(data-aos="fade-right") Disponer de una web, un blog, una cuenta en Facebook o cualquier otra red social vertical u horizontal donde se encuentren los potenciales clientes.
+                      h4.bgw.text-center.mb-0.p-2 Servicio
+                  p.text-center(data-aos="fade-right") Conjunto de valores agregados a la compra del producto.
             
-            .tarjeta.color.p-4
-              .row.justify-content-center
-                .col-12
-                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img08.png' alt='AvatarTop')
-                  .row.justify-content-center
-                    .col-10.mb-4
-                      h4.text-center.mb-0 Búsqueda de prescriptores
 
-                  p.text-center(data-aos="fade-right") Se trata de contactar con personas que puedan recomendar el establecimiento.
-            
-            .tarjeta.color.p-4
-              .row.justify-content-center
-                .col-12
-                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img09.png' alt='AvatarTop')
-                  .row.justify-content-center
-                    .col-10.mb-4
-                      h4.text-center.mb-0 Organizar algún evento
-                  p.text-center(data-aos="fade-right") En el establecimiento que pueda atraer los clientes objetivo.
-    
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
-        p Todas estas acciones aplicadas a los segmentos seleccionados y con un conocimiento de la competencia, se podrán realizar planes de captación de clientes en los que se definan claramente los segmentos de clientes de mayor a menor valor a captar, así como los recursos comerciales y de mercadeo que se deben asignar a cada segmento.      
+        p El departamento de marketing debe prestar especial atención a estos atributos, enfocando sus esfuerzos en aquellos que sean más importantes para el público objetivo de su producto: el empaque, las garantías, los servicios, así como la marca coadyuvan a impactar el mercado meta.
+        p Los consumidores se basan en diversas características o diferenciadores para adquirir el producto. A continuación, se enlistan algunos atributos en los que se basan los consumidores para evaluar los productos o servicios, de acuerdo a Mullins (2007): 
+
+
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
+      .col-lg-10
+        .titulo-sexto.color-secundario.mb-5
+          h5 Figura 1. 
+          | Atributos del producto
+        img(src='@/assets/curso/temas/Tema2/img01.svg' alt='La imagen define los siguientes atributos:  -Atributos de costo: precio de  compra, costos de operación, costos de reparación, costos extras, costos de instalación, rebaja por cambio, probable valor de reventa. -Atributos de rendimiento: durabilidad, calidad de los materiales, construcción, confiabilidad, rendimiento funcional, eficiencia, seguridad. -Atributos sociales: prestigio de la marca, imagen de estado, popularidad con amigos y miembros de la familia, estilo, moda. -Atributos de disponibilidad: vendido por tiendas locales, términos de crédito, calidad de servicio de un distribuidor local, tiempo de entrega.')
+    .py-3
+    p Existen otros atributos que, sin ser tangibles, juegan un papel importante en la toma de decisiones para la adquisición de un producto, estos son:
+    .py-3
+    .row.justify-content-center.align-items-center
+      .col-lg-10.mb-4
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+          .row.col-xl-11.m-auto(titulo="Imagen del producto")
+            .row.justify-content-center.align-items-center(data-aos="fade-right")
+              .col-lg-10
+                p.mb-2 Percepción del producto que se crea en la mente del consumidor según la información recibida del producto.
+              .col-lg-2
+                img(src='@/assets/curso/temas/Tema2/img08.png', alt='tema2')
+          
+          .row.col-xl-11.m-auto(titulo="Imagen de la empresa")
+            .row.justify-content-center.align-items-center(data-aos="fade-right")
+              .col-lg-10
+                p.mb-2 Es una opinión generada en la memoria del mercado que interviene positiva o negativamente en los criterios y actitudes del consumidor hacia los productos. En muchos casos, compramos un producto porque la empresa que lo produce tiene una buena imagen o posicionamiento.
+              .col-lg-2
+                img(src='@/assets/curso/temas/Tema2/img09.png', alt='tema2')
+          
+          .row.col-xl-11.m-auto(titulo="Calidad")
+            .row.justify-content-center.align-items-center(data-aos="fade-right")
+              .col-lg-10
+                p.mb-2 Es la valoración de los elementos que componen el producto, en relación de unos estándares que miden las cualidades y lo comparan con la competencia.
+              .col-lg-2
+                img(src='@/assets/curso/temas/Tema2/img11.png', alt='tema2')        
+         
     
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-12
+        p Por su parte, en el ciclo de vida del producto, una de las fases se denomina “desarrollo del producto”, aquí es importante que se definan los beneficios que se ofrecerán por parte de la empresa que estén asociados al producto, algunos de ellos son el diseño, composición, estilo, calidad, marca, etc.
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-12
+        .cajon.color-acento-contenido.p-4
+          .row.justify-content-center.align-items-center
+            .col-lg-8
+              p #[em “La atención a las necesidades del cliente puede orientar a la empresa sobre aquellas características adicionales del producto; desde una descripción mercadológica de calidad, es la capacidad del producto para desarrollar funciones que incluye su duración general, su fiabilidad, su precisión, la facilidad de utilización y reputación del mismo, entre otros atributos de gran importancia” (Kotler, 2007).]
+            .col-lg-2 
+              img(src='@/assets/curso/temas/Tema2/img012.png', alt='tema2')
+    
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-3
+        img(src='@/assets/curso/temas/Tema2/img013.png', alt='tema2')
+      .col-lg-9
+        p Los atributos del producto son puntos clave de diferenciación con los productos de la competencia e inciden directamente en la decisión de compra. Atributos como el diseño y el estilo, podrían ser los más importantes al momento de decidir la compra, pero, realmente, son todos los atributos que, en conjunto, motivan al consumidor. 
+        p De otro lado, la empresa concentra su decisión en atributos como la calidad, las características, el diseño, la marca, entre otros, para diseñar diferentes acciones de marketing que ayuden en la difusión de su estrategia de marketing en el público meta. Para la empresa, el seleccionar un nombre atractivo, el diseño del envase, diseño de la etiqueta y un conjunto de servicios que acompañen representan factores importantes para diferenciarse de la competencia y diseñar una adecuada estrategia de marketing.
+
     separador
     #t_2_2.titulo-segundo.mb-4
-      h2 2.2 Retener clientes
+      h2 2.2. Niveles de productos
     
-    p.mb-3 Sucede cuando una empresa planifica un conjunto de estrategias de fidelización y acciones con la finalidad de mantener a los clientes actuales a largo plazo. 
+    p.mb-3 “Un producto es más que una cosa”, es una afirmación dada por el economista Philip Kotler, experto reconocido en el campo del marketing. El producto debe satisfacer las diferentes necesidades del consumidor y agregar valor (beneficios percibidos) de acuerdo con esto, el autor afirma que existen cinco niveles de productos de acuerdo con el grado de percepción de sus beneficios, indicando así, el valor que el consumidor le asigna al producto. Un consumidor sólo estará satisfecho cuando el valor asignado sea igual o superior al valor esperado. 
+    p A continuación, se presentan los niveles del producto:
     
-    .row.justify-content-center.align-items-center(data-aos="fade-right")
-      .col-lg-12
-        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/Tema2/img10.png')})`}"
-          )
-          .bloque-texto-g__texto.p-4
-            p.mb-0 Retener a un cliente que viene comprando,  es más económico que conseguir uno nuevo al que hay que invertir muchos recursos . 
-    .py-3
-    p En este sentido, las empresas deben revisar aquellos clientes que compraron y que no volvieron hacerlo por alguna razón. Esos clientes están registrados en la base de datos o en la cartera aparecen como inactivos. De tal manera, que junto a las acciones que se utilizan para captar clientes debe unirse acciones para mantener a los actuales y ofrecerles, de acuerdo con su perfil y segmento, elementos promocionales como: descuentos, ofertas, cupones promocionales, vinculaciones a apps, invitaciones a participar en focus group, entre otros que son más detallados en las estrategias de fidelización para los clientes nuevos y los actuales. La siguiente figura presenta algunas recomendaciones:
-    .row.justify-content-center.align-items-center.mb-0
-      .col-lg-12
-        .titulo-sexto.color-secundario.mb-5
-          h5 Figura 7. 
-          | Recomendaciones
-        img(src='@/assets/curso/temas/Tema2/img11.svg' alt='')
-    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-10
+        img(src='@/assets/curso/temas/Tema2/img014.svg', alt='tema2')
     
     separador
     #t_2_3.titulo-segundo.mb-4
-      h2 2.3  Fidelizar clientes
+      h2 2.3. Clasificación de productos
     
-    p.mb-4 La fidelización se entiende como una acción dirigida a conseguir que los clientes mantengan relaciones estables y continuadas con la empresa a lo largo del tiempo. 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-9
-        .bloque-texto-d.color-acento-contenido.p-4
-          .bloque-texto-d__texto.mb-2
-            i.fas.fa-quote-left
-            h3 Es un proceso que consiste en desarrollar una relación positiva entre los consumidores y la empresa, para que regresen a comprar tus productos o servicios.
-            i.fas.fa-quote-right
-          .bloque-texto-d__autor 
-            .h5.mb-0 (Escamilla, 2020).
-    
-    p Un cliente es leal basado en un conjunto de interacciones satisfactorias con la empresa. La fidelización busca principalmente: 1) que el cliente siga comprando a lo largo del tiempo, y 2) aumentar el volumen de compra.
-    p.mb-3 Basado en lo anterior, el siguiente video expone lo que conlleva el proceso de fidelización de un cliente, sus grados de satisfacción y la estrategia que se utiliza bajo los pasos del mercado relacional:
+      .col-lg-12
+        p Los productos se clasifican en dos grandes grupos: los productos de consumo y los productos industriales. Los productos de consumo son aquellos que se orientan al consumidor final para su uso personal o familiar; de otro lado, los productos industriales se adquieren para un procesamiento posterior o realizar un negocio, hacen mención a los insumos para hacer otros productos.
+        P De acuerdo con la clasificación, de productos de consumo e industriales, podemos identificar diferentes tipos de productos, así:
 
-    figure
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/50E2sAVgx5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-      figcaption Video: Prospección de clientes: Introducción
-    .py-3
-    p La empresa debe incluir en su plan de fidelización programas que procuren mantener un vínculo de comunicación entre la empresa y los clientes. Entre los más utilizados se encuentran los siguientes.
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-10
+        .titulo-sexto.color-secundario.mb-5
+          h5 Figura 2. 
+          | Productos de consumo
+        img(src='@/assets/curso/temas/Tema2/figura2.svg' alt='El diagrama define los siguientes tipos de productos de consumo:  -Conveniencia: se adquieren con frecuencia, de inmediato y sin comparación. -Compra: se adquieren con menor frecuencia y mayor comparación calidad-precio. -Especialidad: tienen identificación de marca. Hay esfuerzo por la compra. No buscados: se conocen pero no es usual comprarlos.')
     
-    .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-4.col-md-6.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0
-            img(src="@/assets/curso/temas/Tema2/img12.png", alt="")
-            .text.p-2
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
-                h4.mt-3.mb-3.text-white Tarjetas de fidelización
-                p.px-4 Se trata de premiar el consumo con obsequios. Este tipo de tarjetas ofrecen a los titulares una serie de ventajas adicionales como descuentos, puntos canjeables por regalos e incluso la devolución de un tanto por ciento de sus compras.
-      
-      .col-lg-4.col-md-6.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0
-            img(src="@/assets/curso/temas/Tema2/img13.png", alt="")
-            .text.p-2
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
-                h4.mt-3.mb-3.text-white Cupones de descuento
-                p.px-4 El usuario puede recortar un cupón y obtendrá una rebaja en el precio de algún producto o servicio del establecimiento.
-      .col-lg-4.col-md-6.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0
-            img(src="@/assets/curso/temas/Tema2/img14.png", alt="")
-            .text.p-2
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
-                h4.mt-3.mb-3.text-white Regalos
-                p.px-4 El cliente recibe un regalo, vinculado o no a la actividad de la empresa, y es ofrecido en agradecimiento a la compra o uso de un producto o servicio del establecimiento. También se pueden dar por fechas especiales.
-      
-      .col-lg-4.col-md-6.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0
-            img(src="@/assets/curso/temas/Tema2/img15.png", alt="")
-            .text.p-2
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
-                h4.mt-3.mb-3.text-white Puntos de compra
-                p.px-4 Permiten obtener una serie de beneficios en tiempo real. Como la estrategia de los Almacenes Éxito “Puntos Colombia”.
-      
-      .col-lg-4.col-md-6.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0
-            img(src="@/assets/curso/temas/Tema2/img16.png", alt="")
-            .text.p-2
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
-                h4.mt-3.mb-3.text-white Gestionar clientes a través de Apps
-                p.px-4 Una aplicación en el móvil permite interactuar con los clientes. A este tipo de aplicaciones, se les puede añadir diferentes funcionalidades, como por ejemplo, una búsqueda de clientes para así, tenerlo todo ordenado y clasificado, según categorías o intereses.
-      
-      .col-lg-4.col-md-6.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0
-            img(src="@/assets/curso/temas/Tema2/img17.png", alt="")
-            .text.p-2
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
-                h4.mt-3.mb-3.text-white Comunicación personalizada
-                p.px-4 Envío directo al cliente de ofertas con descuento exclusivo y personalizado.
-      
-      .col-lg-4.col-md-6.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0
-            img(src="@/assets/curso/temas/Tema2/img18.png", alt="")
-            .text.p-2
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
-                h4.mt-3.mb-3.text-white C.R.M
-                p.px-4 Montado para tener comunicaciones más fluidas y directas con los clientes.
-      
-      .col-lg-4.col-md-6.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.nav-holder2.align-items-center.px-0
-            img(src="@/assets/curso/temas/Tema2/img19.png", alt="")
-            .text.p-2
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
-                h4.mt-3.mb-3.text-white Club de clientes
-                p.px-4 Puede ser por gustos, hábitos o labores que se realicen en la casa.
-       
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-10
+        .titulo-sexto.color-secundario.mb-5
+          h5 Figura 3. 
+          | Productos industriales
+        img(src='@/assets/curso/temas/Tema2/figura3.svg' alt='El diagrama define los siguientes tipos de productos industriales: -De capital: ayudan en la producción o las operaciones del comprador -Materiales y refacciones: materias primas, materiales y componentes manufacturados. -Suministros y servicios: artículos para reparación, mantenimiento y servicios de negocio')
     
+    
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
+      .col-lg-12
+        p.mb-5 Al conocer el tipo de producto es posible definir cuál es el precio con el que puede lanzarse al mercado, identificar los canales de distribución en los que se puede comercializar, qué tipo de promoción, entre otros factores importantes, que ayudarán a la construcción del plan de marketing.
+ 
+    separador
+    #t_2_4.titulo-segundo.mb-4
+      h2 2.4. Características del producto
+
+    p Las características generan un cambio en el producto, no lo suficiente para indicar que es un producto diferente, pero sí, que sea susceptible de comercialización. Las características de un producto se dividen en generales y técnicas, como se presenta en la siguiente figura:
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-6
+        .titulo-sexto.color-secundario.mb-5
+          h5 Figura 4. 
+          | Características del producto
+        img(src='@/assets/curso/temas/Tema2/figura4.svg' alt='el diagrama menciona como características generales dos tipos: tangibles e intangibles; dentro de las tangibles están el precio, el diseño, el envase y el etiquetado; en las intangibles se menciona la calidad, las marcas o símbolos, la imagen corporativa y los servicios. Por otro lado se encuentran las características técnicas: peso, densidad, material y volumen.')
+    p En las principales características del producto, tenemos aquellas que pueden clasificarse en orden general y aquellas que son técnicas. Encontrando:
 
 
 
