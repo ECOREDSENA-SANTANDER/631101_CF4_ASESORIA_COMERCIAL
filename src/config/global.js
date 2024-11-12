@@ -261,97 +261,32 @@ export default {
   },
   complementario: [
     {
-      tema: '1.1.	Comprender el mercado y al cliente',
+      tema: '2. El producto ',
       referencia:
-        'QuestioPro. (s.f.). El mercado y las necesidades del cliente en la investigación (Parte I). ',
-      tipo: 'Página web',
-      link:
-        'https://www.questionpro.com/blog/es/mercado-y-necesidades-del-cliente/',
+        'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos De Marketing. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración. ',
+      tipo: 'Libro ',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4393 ',
     },
     {
-      tema: '1.2.	Mezcla de mercadeo',
-      referencia: 'Coll, F. (2021). Mezcla de mercadotecnia. Economipedia.',
-      tipo: 'Página web',
-      link:
-        'https://economipedia.com/definiciones/mezcla-de-mercadotecnia.html ',
-    },
-    {
-      tema: '1.2.3. Canales de distribución',
+      tema: '2. El producto ',
       referencia:
-        'Rodríguez, I., Maraver, G. & Martínez, F. (s.f.). Canales de distribución. Universitat Oberta de Catalunya. ',
-      tipo: 'Artículo',
-      link:
-        'http://cv.uoc.edu/annotation/e278f6575e9eb38a49450e18f778004e/607706/PID_00195275/PID_00195275.html ',
+        'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2016). Dirección De Marketing. Decimoquinta. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración. ',
+      tipo: 'Libro ',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4273  ',
     },
     {
-      tema: '1.2.3. Canales de distribución',
-      referencia: 'Comercionista. (2020). Tipos de mayoristas.',
-      tipo: 'Página web',
-      link: 'https://www.comercionista.com/compras/que-es-un-mayorista-tipos/ ',
-    },
-    {
-      tema: '2.	Mercados. ',
-      referencia: 'Quiroga, M. (2020). Mercado. Economipedia. ',
-      tipo: 'Página web',
-      link: 'https://economipedia.com/definiciones/mercado.html ',
-    },
-    {
-      tema: '2.4. Características del mercado.',
-      referencia: 'Máxima, A. (2019). Características del mercado. ',
-      tipo: 'Página web',
-      link: 'https://www.caracteristicas.co/mercado/#ixzz74Q1rHzhJ ',
-    },
-    {
-      tema: '2.7. Pasos para definir el mercado.',
+      tema: '2. El producto ',
       referencia:
-        'WixBlog. (2020). Mercado meta: Qué es, como definirlo y ejemplos. ',
-      tipo: 'Página web',
-      link:
-        'https://es.wix.com/blog/2020/12/mercado-meta-que-es-como-definirlo-y-ejemplos',
+        'Negocios en Tu Mundo, negocios en TM. (2012). Emprendedores a diferenciar sus productos Nada de commodities. [Video]. YouTube. ',
+      tipo: 'Video ',
+      link: 'https://www.youtube.com/watch?v=GGAGkqStMJw ',
     },
     {
-      tema: '3.	Segmentos del mercado.',
+      tema: '2. El producto ',
       referencia:
-        'Núñez, V. (2019). ¿Qué es la segmentación del mercado y cómo potencia tu estrategia de marketing? ',
-      tipo: 'Página web',
-      link: 'https://vilmanunez.com/segmentacion-del-mercado/ ',
-    },
-    {
-      tema: '4.	Técnicas de recolección de datos.',
-      referencia:
-        'QuestionPro. (s.f.). ¿Qué es la recolección de datos y cómo realizarla? ',
-      tipo: 'Página web',
-      link:
-        'https://www.questionpro.com/blog/es/recoleccion-de-datos-para-investigacion/ ',
-    },
-    {
-      tema: '4.1.	Técnicas',
-      referencia:
-        'Westreicher, G. (2021). Recolección de datos. Economipedia. ',
-      tipo: 'Página web',
-      link: 'https://economipedia.com/definiciones/recoleccion-de-datos.html ',
-    },
-    {
-      tema: '4.1. Técnicas',
-      referencia: 'QuestioPro. (s.f.). Encuesta. ',
-      tipo: 'Página web',
-      link: 'https://www.questionpro.com/es/una-encuesta.html#que_es_encuesta',
-    },
-    {
-      tema: '4.2.	Instrumentos para la recolección de información',
-      referencia:
-        'Díaz-Bravo, L., Torruco-García, U., Martínez-Hernández, M., y Varela-Ruiz, M. (2013). La entrevista, recurso flexible y dinámico. Investigación en Educación Médica, 2(7), 162-167.',
-      tipo: 'Artículo',
-      link:
-        'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-50572013000300009 ',
-    },
-    {
-      tema: '5.	Bases de datos.',
-      referencia:
-        'Nota Tecnológica. (s.f.). Estructura de una base de datos: normalización y más. ',
-      tipo: 'Página web',
-      link:
-        'https://notatecnologica.com/tecnologia/estructura-de-una-base-de-datos/ ',
+        'Negocios en Tu Mundo, negocios en TM. (2012). Qué es y que no es el valor agregado. [Video]. YouTube. ',
+      tipo: 'Video ',
+      link: 'https://www.youtube.com/watch?v=FpnYS2jtKJk  ',
     },
   ],
   glosario: [
@@ -488,14 +423,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Javier del Carmen Martínez Pérez',
-          cargo: 'Instructor técnico',
-          centro: 'Centro de Comercio y Servicio - Regional Bolívar',
+          nombre: 'Paolo Andrés Cantillo Largo ',
+          cargo: 'Experto temático ',
+          centro: 'Centro de comercio Regional Antioquia ',
         },
         {
-          nombre: 'Zenith Chinchilla Ruedas',
-          cargo: 'Diseñador instruccional',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          nombre: 'Zenith Chinchilla Ruedas ',
+          cargo: 'Diseñador Instruccional ',
+          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología ',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
@@ -507,12 +442,6 @@ export default {
           cargo: 'Corrector de estilo',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'José Gabriel Ortiz Abella',
-          cargo: 'Corrector de estilo',
-          centro:
-            'Centro de para la Comunicación de la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Jiménez Suescún',

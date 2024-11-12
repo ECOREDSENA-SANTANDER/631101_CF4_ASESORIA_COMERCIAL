@@ -21,7 +21,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-8
               p La American Marketing Asociation (A.M.A.) define producto (en inglés: product) y menciona lo siguiente: “Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales”.
-            .col-lg-2 
+            .col-lg-2.col-6.col-sm-5 
               img(src='@/assets/curso/temas/Tema2/img2.png', alt='tema2')
     
     p En el mundo de la mercadotecnia, también encontramos otras definiciones de productos:
@@ -140,21 +140,21 @@
             .row.justify-content-center.align-items-center(data-aos="fade-right")
               .col-lg-10
                 p.mb-2 Percepción del producto que se crea en la mente del consumidor según la información recibida del producto.
-              .col-lg-2
+              .col-lg-2.col-6.col-sm-5
                 img(src='@/assets/curso/temas/Tema2/img08.png', alt='tema2')
           
           .row.col-xl-11.m-auto(titulo="Imagen de la empresa")
             .row.justify-content-center.align-items-center(data-aos="fade-right")
               .col-lg-10
                 p.mb-2 Es una opinión generada en la memoria del mercado que interviene positiva o negativamente en los criterios y actitudes del consumidor hacia los productos. En muchos casos, compramos un producto porque la empresa que lo produce tiene una buena imagen o posicionamiento.
-              .col-lg-2
+              .col-lg-2.col-6.col-sm-5
                 img(src='@/assets/curso/temas/Tema2/img09.png', alt='tema2')
           
           .row.col-xl-11.m-auto(titulo="Calidad")
             .row.justify-content-center.align-items-center(data-aos="fade-right")
               .col-lg-10
                 p.mb-2 Es la valoración de los elementos que componen el producto, en relación de unos estándares que miden las cualidades y lo comparan con la competencia.
-              .col-lg-2
+              .col-lg-2.col-6.col-sm-5
                 img(src='@/assets/curso/temas/Tema2/img11.png', alt='tema2')        
          
     
@@ -168,12 +168,12 @@
           .row.justify-content-center.align-items-center
             .col-lg-8
               p #[em “La atención a las necesidades del cliente puede orientar a la empresa sobre aquellas características adicionales del producto; desde una descripción mercadológica de calidad, es la capacidad del producto para desarrollar funciones que incluye su duración general, su fiabilidad, su precisión, la facilidad de utilización y reputación del mismo, entre otros atributos de gran importancia” (Kotler, 2007).]
-            .col-lg-2 
+            .col-lg-2.col-6
               img(src='@/assets/curso/temas/Tema2/img012.png', alt='tema2')
     
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-3
+      .col-lg-3.col-8.mb-2
         img(src='@/assets/curso/temas/Tema2/img013.png', alt='tema2')
       .col-lg-9
         p Los atributos del producto son puntos clave de diferenciación con los productos de la competencia e inciden directamente en la decisión de compra. Atributos como el diseño y el estilo, podrían ser los más importantes al momento de decidir la compra, pero, realmente, son todos los atributos que, en conjunto, motivan al consumidor. 
@@ -276,7 +276,7 @@
               li
                 i.fas.fa-circle-check
                 | El empaque constituye la envoltura o protección que acompaña al producto y al mismo tiempo, forma parte de sus atributos.
-      .col-lg-3
+      .col-lg-3.col-8
         img(src='@/assets/curso/temas/Tema2/img16.png', alt='tema2')
 
     p El empaque fortalece las estrategias de marketing, aunque su objetivo es proteger el producto que lleva dentro, la función principal es promover la venta. 
@@ -314,9 +314,92 @@
     separador
     #t_2_8.titulo-segundo.mb-4
       h2 2.8. Embalaje
+    
+    .row.mb-5
+      .col-md-6.col-lg.mb-5.mb-lg-1
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/Tema2/16.png' alt='')
+          .tarjeta.color-primario
+           .p-4
+              .py-4
+              br
+              h2.text-center Empaque primario
+              p Está en contacto directo con el producto
+              
+             
+      .col-md-6.col-lg.mb-5.mb-lg-1
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/Tema2/17.png' alt='')
+          .tarjeta.color-primario
+           .p-4
+              .py-4
+              br
+              h2.text-center Empaque secundario
+              p Protege el embalaje primario y se puede desechar al momento de que el producto es usado.
+   
+      .col-md-6.col-lg.mb-5.mb-lg-1
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/Tema2/18.png' alt='')
+          .tarjeta.color-primario
+            .p-4
+              .py-4
+              br
+              h2.text-center Empaque secundario
+              p Empaque terciario o de transporte Protege al producto al momento de transportarlo, especialmente en exportación o distribución.
+    p El embalaje provee mecanismos de protección del producto:
 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-8
+        img(src='@/assets/curso/temas/Tema2/img119.svg' alt='')
 
+    p El auge del comercio electrónico le ha dado mucha importancia al embalaje, pues garantiza que el producto llegue de forma segura al consumidor. Alimentos, kits de herramientas, ropa, medicamentos, entre otros, ya están llegando a las puertas de los clientes, por tanto, la empresa debe asegurar que el producto llegue intacto. 
+    
+    separador
+    #t_2_9.titulo-segundo.mb-4
+      h2 2.9. Portafolio de productos     
+    
+    .row.align-items-center.justify-content-center.mb-2
+      .col-lg-12.col-md-12.col-12
+        .tarjeta--container.row
+          .col-md.tarjeta.d-none.d-lg-block.col-lg-3.pegado
+            figure
+              img.d-none.d-lg-block(src='@/assets/curso/temas/Tema2/img20.png', alt='tema1')
+          .col-md.tarjeta.color-primario.p-0.col-lg-9.p-2.pegado
+            br
+            br
+            p.my-5.mx-4 Un portafolio de productos, también denominado mezcla de productos, consta de todas las líneas de productos que un vendedor específico ofrece a un cliente o un conjunto de clientes. Un Portafolio de productos bien estructurado, le ayuda a la empresa a trazar su estrategia comercial. 
+
+    separador
+    #t_2_10.titulo-segundo.mb-4
+      h2 2.10. Ciclo de vida
+
+    p En el siguiente recurso se presenta gráficamente el ciclo de vida de un producto:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        .cajon.color-acento-contenido.p-4.mb-4
+          p La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la Harvard Bussines Review. De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, Crecimiento, Madurez y Declive o decadencia. 
+
+      .col-lg-8.mb-4
+        img(src='@/assets/curso/temas/Tema2/img21.svg' alt='')
+
+      .col-lg-8.mb-4
+        img(src='@/assets/curso/temas/Tema2/img22.svg' alt='')
+
+      .col-lg-8.mb-4
+        img(src='@/assets/curso/temas/Tema2/img23.svg' alt='')
       
+      .col-lg-8.mb-4
+        img(src='@/assets/curso/temas/Tema2/img24.svg' alt='')
+
+      .col-lg-8.mb-4
+        img(src='@/assets/curso/temas/Tema2/img25.svg' alt='')
+      
+      .col-lg-8.mb-4
+        img(src='@/assets/curso/temas/Tema2/img26.svg' alt='')
+
+
+
 </template>
 
 <script>

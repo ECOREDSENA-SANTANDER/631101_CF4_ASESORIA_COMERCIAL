@@ -8,7 +8,7 @@
       h1 Servicio al cliente
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4
+      .col-lg-4.col-8.mb-3
         img(src='@/assets/curso/temas/Tema4/img1.png', alt='')
       .col-lg-8 
         p No hay una fórmula sencilla para cuidar a los clientes, pero tampoco se trata de un gran misterio. Según el director general de L. L. Bean, “Muchas personas tienen cosas curiosas que decir acerca del servicio al cliente… pero solo se trata de una actividad diaria, continua, interminable, persistente, perseverante y compasiva”. De acuerdo con este concepto, podemos decir que el servicio al cliente son actividades que ofrece una empresa o quien provee el producto, hacia el consumidor, con el fin de satisfacer sus necesidades complementarias alrededor del producto adquirido y así, asegurar su correcto uso.
@@ -20,17 +20,17 @@
     p.mb-5 Los atributos del servicio son la filosofía o principios fundamentales que soportan el proceso de interacción entre el prestador de servicio con el cliente y consolidarlo sobre la base de la confianza y la ética. Entre los atributos tenemos:
         
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-2
+      .col-lg-2.col-5.mb-3
         img(src='@/assets/curso/temas/Tema4/1.png', alt='')
-      .col-lg-2
+      .col-lg-2.col-5.mb-3
         img(src='@/assets/curso/temas/Tema4/2.png', alt='')
-      .col-lg-2
+      .col-lg-2.col-5.mb-3
         img(src='@/assets/curso/temas/Tema4/3.png', alt='')
-      .col-lg-2
+      .col-lg-2.col-5.mb-3
         img(src='@/assets/curso/temas/Tema4/4.png', alt='')
-      .col-lg-2
+      .col-lg-2.col-5.mb-3
         img(src='@/assets/curso/temas/Tema4/5.png', alt='')
-      .col-lg-2
+      .col-lg-2.col-5.mb-3
         img(src='@/assets/curso/temas/Tema4/6.png', alt='')
     
     separador

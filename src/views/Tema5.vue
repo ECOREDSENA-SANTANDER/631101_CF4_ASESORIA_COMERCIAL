@@ -8,7 +8,7 @@
       h1 Negociación
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4
+      .col-lg-4.col-8.mb-2
         img(src='@/assets/curso/temas/Tema5/img01.png', alt='')
       .col-lg-8
         p Las negociaciones son parte de la vida cotidiana de las personas, en cada actividad donde intervienen una o más personas, sea para estudiar, investigar o comprar algún artículo en el hogar, siempre habrá un proceso de negociación. Una buena negociación tiene un efecto recíproco entre las partes negociantes. Ávila (2008) comenta que la negociación “es un proceso en el que dos o más personas intercambian ideas con la intención de modificar sus relaciones y alcanzar un acuerdo tendiente a satisfacer necesidades mutuas”.
