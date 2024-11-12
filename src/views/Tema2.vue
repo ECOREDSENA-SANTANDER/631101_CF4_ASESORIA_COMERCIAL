@@ -231,8 +231,92 @@
         img(src='@/assets/curso/temas/Tema2/figura4.svg' alt='el diagrama menciona como características generales dos tipos: tangibles e intangibles; dentro de las tangibles están el precio, el diseño, el envase y el etiquetado; en las intangibles se menciona la calidad, las marcas o símbolos, la imagen corporativa y los servicios. Por otro lado se encuentran las características técnicas: peso, densidad, material y volumen.')
     p En las principales características del producto, tenemos aquellas que pueden clasificarse en orden general y aquellas que son técnicas. Encontrando:
 
+    .row.justify-content-center.align-items-center.mb-0
+      .col-lg-5.text-center
+        h3.p-4.bg01.mb-0 Características del producto
+        h4.bg02.p-2.mb-0 Generales
+        p.bg03.p-2.mb-0 Entre las características generales, tenemos aquellas que son tangibles e intangibles:
+    .row.justify-content-center.align-items-center.mb-0
+      .col-lg-5.bg01.p-4.text-white
+        h3 Tangibles:
+        p.mb-0 Precio: el precio es el monto o valor económico (en moneda) que se asigna a un producto con el fin que pueda ser adquirido por el cliente o consumidor.
+        p.mb-0  Diseño: el diseño en un producto se refiere a la combinación de la tipografía, color, forma, tamaño, material, entre otros, que constituyen el aspecto visual del producto.
+        p.mb-0  Envase: es el contenedor que mantiene o contiene el producto y lo protege de agentes externos.
+        p.mb-0  Etiquetado: es la pieza que completa el empaque de todo tipo de producto, presenta la información de ingredientes, composición, material, instrucciones, entre otras para manipular correctamente el producto.
+      .col-lg-5.bg04.p-4
+        h3 Intangibles:
+        p.mb-0  Calidad: es la percepción que el cliente tiene del producto en su totalidad, no solo por sus atributos tangibles, sino también por sus beneficios, valores agregados, etc.
+        p.mb-0  Marcas o símbolos: es la imagen que permite que los consumidores identifiquen el producto.
+        p.mb-0  Imagen corporativa: es la identidad visual de la empresa que representa al producto y lo posiciona.
+        p.mb-5 Servicios: los servicios asociados al producto, hacen parte del acompañamiento o garantías que la empresa pone al servicio del cliente.
+      .row.justify-content-center.align-items-center.mb-0
+        .col-lg-5.bg02.p-2.text-center
+          h4 Técnicas
+      .row.justify-content-center.align-items-center.mb-0
+        .col-lg-10
+          img(src='@/assets/curso/temas/Tema2/img015.svg', alt='tema2')
+
+    separador
+    #t_2_5.titulo-segundo.mb-4
+      h2 2.5. Empaque
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-9
+        p El empaque puede convertirse en el elemento más importante en el proceso de comunicación y venta de un producto. Su diseño, forma y presentación, hacen que el producto sea visible en una estantería o vitrina y logre persuadir al consumidor para tomar una decisión de compra. Así mismo, el empaque de un producto permite transportarlo de un lugar a otro, para que este no sufra daños y lo mantenga limpio y fresco, en caso de que sea un alimento.
+        p Algunos aspectos importantes del empaque son:
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-9
+            ul.lista-ul--color
+              li
+                i.fas.fa-circle-check
+                | El empaque y la presentación del producto comenzaron a influir en la decisión de compra.
+              li
+                i.fas.fa-circle-check
+                | El empaque es la cara visible de la marca.
+              li
+                i.fas.fa-circle-check
+                | El empaque constituye la envoltura o protección que acompaña al producto y al mismo tiempo, forma parte de sus atributos.
+      .col-lg-3
+        img(src='@/assets/curso/temas/Tema2/img16.png', alt='tema2')
+
+    p El empaque fortalece las estrategias de marketing, aunque su objetivo es proteger el producto que lleva dentro, la función principal es promover la venta. 
+    p El empaque representa la protección del producto contra factores que puedan afectar sus características físicas de frescura, sabor, color y textura, la comodidad que puede brindar el empaque para el almacenamiento y distribución, facilita el control de inventarios, manipulación y transporte. Así mismo, el empaque presenta información necesaria acerca del uso, los ingredientes y la composición del producto.
+    
+    separador
+    #t_2_6.titulo-segundo.mb-4
+      h2 2.6. Etiqueta
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p La etiqueta es una parte del producto que usualmente está adherida al envase, y tiene la finalidad de informar al cliente acerca de los principales atributos del producto, principalmente el nombre y la marca. La etiqueta brinda información de las características del producto, como lo son: ingredientes, componentes, peso, tamaño, indicaciones para su uso, modo de empleo, precauciones, fecha de expedición y vencimiento, numero de lote, instrucciones generales, etc. Se debe resaltar que la información de la etiqueta puede cambiar de acuerdo con la normatividad de cada país y el sector de la industria a la que pertenece el producto.
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-10
+        .titulo-sexto.color-secundario.mb-5
+          h5 Figura 5. 
+          | Etiqueta
+        img(src='@/assets/curso/temas/Tema2/figura5.svg' alt='')
+
+    separador
+    #t_2_7.titulo-segundo.mb-4
+      h2 2.7. Envase
+
+    p Es el contenedor que está en contacto directo con el producto, permite su protección y evita su esparcimiento. Algunos ejemplos de envases son las bolsas de snacks, botellas de agua, la caja de un computador, entre otras. Al igual que el empaque, el envase también cumple la función de ofrecer una presentación adecuada del producto que facilite la venta, la manipulación, el almacenamiento y la distribución.
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-6
+        .titulo-sexto.color-secundario.mb-5
+          h5 Figura 6. 
+          | El envase contiene el producto y lo protege de los agentes externos
+        img(src='@/assets/curso/temas/Tema2/figura6.png' alt='')
+    p En algunos casos, el empaque y el envase son lo mismo; por ejemplo, en el caso de los medicamentos como jarabes o pastillas, el envase contiene el medicamento y el empaque es la caja que los protege.
+
+    separador
+    #t_2_8.titulo-segundo.mb-4
+      h2 2.8. Embalaje
 
 
+      
 </template>
 
 <script>
