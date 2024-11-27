@@ -7,8 +7,6 @@
         span 3
       h1 El surtido
     
-    p.mb-3 Desde la perspectiva del mercadeo, existen dos grupos principales de clientes: los clientes actuales y los potenciales. Estos se explican a continuación: 
-
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-4.col-8.mb-3
         img(src='@/assets/curso/temas/Tema3/img01.png', alt='tema1')
@@ -139,7 +137,7 @@
       .col-lg-8
         .py-4
         p El lineal es la medida horizontal del espacio donde se exponen o se organizan los productos para su venta aplicando el método de autoservicio. En el lineal, hacen parte las góndolas, expositores, mostradores, vitrinas, enfriadores y congeladores para presentar el producto a los clientes. 
-        p Existen dos tipos de lineal: a ras del suelo (al alcance del consumidor) y desarrollado (que incluye diferentes alturas de estanterías)
+        p Existen dos tipos de lineal: a ras del suelo (al alcance del consumidor) y desarrollado (que incluye diferentes alturas de estanterías).
       .col-lg-4.col-8
         img(src='@/assets/curso/temas/Tema3/img05.png', alt='tema1')
 

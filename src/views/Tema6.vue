@@ -61,9 +61,9 @@
                     i.fas.fa-check-circle
                     span.mb-2 Introducción o breve descripción de la propuesta.
 
-                  li.mb-0 
+                  li.d-flex.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-2 Información sobre la empresa que recibirá la propuesta: aquí usted puede escribir una corta descripción de la empresa a la cual se le enviará la propuesta. No es necesario toda la historia, pero por lo menos una indicación de los aspectos más importantes.
+                    span.mb-0 Información sobre la empresa que recibirá la propuesta: aquí usted puede escribir una corta descripción de la empresa a la cual se le enviará la propuesta. No es necesario toda la historia, pero por lo menos una indicación de los aspectos más importantes.
                   li.mb-0 
                     i.fas.fa-check-circle
                     span.mb-2 Argumento o descripción del problema.
@@ -78,7 +78,7 @@
                     span.mb-2 Cronograma general para el desarrollo de la propuesta.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-2 Costos de la propuesta
+                    span.mb-2 Costos de la propuesta.
                   li.mb-0 
                     i.fas.fa-check-circle
                     span.mb-2 Formas de pago propuestas o como base de la negociación.

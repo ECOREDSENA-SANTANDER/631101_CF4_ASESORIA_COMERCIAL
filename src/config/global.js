@@ -263,143 +263,134 @@ export default {
     {
       tema: '2. El producto ',
       referencia:
-        'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos De Marketing. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración. ',
+        'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos De Marketing. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración.',
       tipo: 'Libro ',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4393 ',
+      link:
+        'https://z-library.rs/book/5975950/a900ad/fundamentos-de-marketing.html',
     },
     {
       tema: '2. El producto ',
       referencia:
-        'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2016). Dirección De Marketing. Decimoquinta. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración. ',
-      tipo: 'Libro ',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4273  ',
-    },
-    {
-      tema: '2. El producto ',
-      referencia:
-        'Negocios en Tu Mundo, negocios en TM. (2012). Emprendedores a diferenciar sus productos Nada de commodities. [Video]. YouTube. ',
+        'Negocios en Tu Mundo, negocios en TM. (2012). Emprendedores a diferenciar sus productos Nada de commodities. [Video]. YouTube.',
       tipo: 'Video ',
-      link: 'https://www.youtube.com/watch?v=GGAGkqStMJw ',
+      link: 'https://youtu.be/GGAGkqStMJw',
     },
     {
       tema: '2. El producto ',
       referencia:
-        'Negocios en Tu Mundo, negocios en TM. (2012). Qué es y que no es el valor agregado. [Video]. YouTube. ',
+        'Negocios en Tu Mundo, negocios en TM. (2012). Qué es y que no es el valor agregado. [Video]. YouTube.',
       tipo: 'Video ',
-      link: 'https://www.youtube.com/watch?v=FpnYS2jtKJk  ',
+      link: 'https://youtu.be/FpnYS2jtKJk',
     },
   ],
   glosario: [
     {
-      termino: 'Base de datos',
+      termino: '<i>Online</i>',
       significado:
-        'herramienta fundamental en el entorno informático hoy en día y tienen aplicación en la práctica como los negocios, organizaciones y en la vida personal. Su aplicabilidad responde a la necesidad de gestionar datos que provean información pertinente.',
+        'En español, “en línea”, que se accede mediante una conexión a internet o que se encuentra en internet.',
     },
     {
-      termino: 'Encuesta',
+      termino: 'Deseos de datos',
       significado:
-        '“Las encuestas son un método de investigación y recopilación de datos utilizadas para obtener información a un grupo de individuos sobre diversos temas” (QuestionPro, s.f.). ',
+        'Forma que adopta la necesidad” convertida en un elemento tangible.',
     },
     {
-      termino: 'Entrevista',
+      termino: 'Envase',
       significado:
-        'charla en la que una persona hace a otra una serie de preguntas sobre un tema determinado. ',
+        'Objeto que permite el almacenamiento y el transporte de determinados productos.',
     },
     {
-      termino: 'Mercadeo',
+      termino: 'Embalaje',
       significado:
-        '“Es un proceso mediante el cual las empresas crean valor para sus clientes y generan fuertes relaciones con ellos para, en reciprocidad, captar valor de los clientes” (Kotler y Armstrong, 2013, p. 35).',
+        'Material utilizado para recubrir y proteger un producto o conjunto de productos que será transportado.',
     },
     {
-      termino: 'Mercado',
+      termino: 'Empaque',
       significado:
-        '“El mercado es un proceso que opera cuando hay personas que actúan como compradores y otras como vendedores de bienes y servicios, generando la acción del intercambio” (Quiroga, 2020).',
+        'Conjunto de materiales que forman la envoltura y armazón de los paquetes, como papeles, telas, cuerdas, cintas, etc.',
     },
     {
-      termino: 'Observación',
+      termino: 'Etiqueta',
       significado:
-        '“Es una técnica que consiste en observar atentamente el fenómeno, hecho o caso, tomar información y registrarla para su posterior análisis” (Pereda, 2017).',
+        'Señal, marca o rótulo que se adhiere a un objeto para su identificación, clasificación o valoración.',
     },
     {
-      termino: 'Posicionamiento',
+      termino: 'Necesidades',
       significado:
-        '“Una posición de producto es la forma en que un producto está definido por los consumidores en atributos importantes, el lugar que ocupa en la mente de los consumidores respecto a los productos competidores” (Kotler y Armstrong, 2013).',
+        'Estados de carencia que percibe el ser humano ante diferentes situaciones. Elementos constantes y que tienen un origen biológico, inherentes al ser humano.',
     },
     {
-      termino: 'Segmentación',
+      termino: 'Proactivo',
       significado:
-        'proceso de dividir un mercado en grupos de clientes potenciales con necesidades y/o características similares y que pueden requerir un producto diferente y/o una forma de comunicación diferente.',
+        'Persona que tiene iniciativa y capacidad para anticiparse a problemas o necesidades futuras.',
     },
     {
-      termino: 'Ventas',
+      termino: 'Producto',
       significado:
-        'actividades relacionadas con la venta o la cantidad de bienes vendidos en un período de tiempo determinado. La entrega de un servicio por un costo también se considera una venta.',
+        'conjunto de elementos tangibles e intangibles que son percibidos por el cliente como los satisfactores de sus necesidades ',
+    },
+    {
+      termino: 'Reactivo',
+      significado:
+        'Persona que actúa reaccionando a las circunstancias externas',
+    },
+    {
+      termino: '<i>Stock</i>',
+      significado:
+        'Conjunto de mercancías o productos que se tienen almacenados en espera de su venta o comercialización.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Arellano, C., R. (2010). Marketing enfoque América Latina. Pearson Prentice Hall.',
-      link: '',
-    },
-    {
-      referencia:
-        'Caro, L. (2019). 7 Técnicas e Instrumentos para la Recolección de Datos. Lifeder.',
-      link: 'https://www.lifeder.com/tecnicas-instrumentos-recoleccion-datos/ ',
-    },
-    {
-      referencia:
-        'Díaz-Bravo, L., Torruco-García, U., Martínez-Hernández, M., y Varela-Ruiz, M. (2013). La entrevista, recurso flexible y dinámico.',
+        'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos De Marketing. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración.',
       link:
-        'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-50572013000300009',
+        'https://z-library.rs/book/5975950/a900ad/fundamentos-de-marketing.html',
     },
     {
       referencia:
-        'Fano, F. (2015). ¿Qué es estrategia? El pensamiento de Michael E. Porter. Mejora Competitiva.',
+        'Ávila M., F. (2008). Tácticas para la Negociación Internacional. (2da. Ed.). ISBN: 9682480841. México D.F., México: Editorial Trillas, pp. 29, 195-196.',
+      link: '',
+    },
+    {
+      referencia:
+        'Díez de Castro, E.C, Landa Bercebal, F.J., Navarro García, A. (2006). Merchandising. Teoría y práctica. Pirámide, Madrid',
+      link: '',
+    },
+    {
+      referencia:
+        'Lira Mejía, M. C. (2009). ¿Cómo puedo mejorar el servicio al cliente? Técnicas para perfeccionar la actitud en el servicio al cliente',
       link:
-        'https://uv.unitec.edu/MarcoestrategicodeempresasMB74101/lectura/S101/3/',
+        'https://www.academia.edu/19788867/COMO_PUEDO_MEJORAR_EL_SERVICIO_A_CLIENTE',
     },
     {
-      referencia: 'Goñi, Á., N. (2008). El precio. Pearson Prentice Hall.',
+      referencia:
+        'Muñiz G., R. (2008). Marketing en el siglo XXI. (2da. Ed.). ISBN: 8445410911. España: Centro de estudios Financieros.',
       link: '',
     },
     {
       referencia:
-        'Kendall, K., y Kendall, J. (2011). Análisis y diseño de sistemas. Pearson Education. ',
+        'Negocios en Tu Mundo, negocios en TM. (2012). Emprendedores a diferenciar sus productos Nada de commodities.',
+      link: 'https://youtu.be/GGAGkqStMJw',
+    },
+    {
+      referencia:
+        'Negocios en Tu Mundo, negocios en TM. (2012). Qué es y que no es el valor agregado. (2007). Maslows Hierarchy of Needs.',
+      link: 'https://www.simplypsychology.org/maslow.html',
+    },
+    {
+      referencia:
+        'Palomares, B. (2009). Merchandising. Teoría, práctica y estrategia. ESIC, Madrid.',
       link: '',
     },
     {
       referencia:
-        'Kerin. H., y Rudelius, W. (2014). Marketing. McGraw Hill Education. 11a Edición.',
+        'Parra, J. B., Santiago, E., Murillo, M. & Atonal, C. (2010). Estrategia para negociaciones exitosas. e-Gnosis, 8.',
       link: '',
     },
     {
       referencia:
-        'Kotler, P., y Armstrong, G. (2013). Fundamentos de marketing. Pearson Prentice Hall.',
-      link: '',
-    },
-    {
-      referencia:
-        'Kotler, P., y Armstrong, G. (2012). Marketing. Pearson Prentice Hall.',
-      link: '',
-    },
-    {
-      referencia: 'Pereda, G (2017). Métodos y técnicas de investigación.',
-      link:
-        'https://es.slideshare.net/guillermopereda/mtodos-y-tcnicas-de-investigacin-79785371',
-    },
-    {
-      referencia: 'QuestioPro. (s.f.). Encuesta.',
-      link: 'https://www.questionpro.com/es/una-encuesta.html#que_es_encuesta',
-    },
-    {
-      referencia:
-        'Santesmases, M., Valderrey, F., y Sánchez, A. (2014). Fundamentos de mercadotecnia. Grupo Editorial Patria.',
-      link: '',
-    },
-    {
-      referencia:
-        'Stanton, W., Etzel, M., y Walker, B. (2007). Fundamentos de marketing. McGraw Hill Education.',
+        'Solís Buendía, L. (2015). Importancia del surtido en la estrategia minorista: un análisis empírico en el contexto de tiendas de ropa.',
       link: '',
     },
   ],
@@ -474,7 +465,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

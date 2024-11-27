@@ -10,7 +10,7 @@
     p En el siguiente video se describe de manera breve el termino producto y sus características: 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/sAUSTEJgb5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/LN1eBcD5H4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
       figcaption Video: El producto
     .py-3
     p No solo incluye los objetos que se pueden adquirir o comprar, como carros, computadores, teléfonos celulares, entre otros; pues esta definición incluye aquello que no es tangible pero que lo disfrutamos, como eventos, ingreso a lugares, ideas o una mezcla de todo esto. El concepto “producto” se aborda en el sentido más amplio que incluye todo lo anterior; así un carro Toyota, una moto Pulsar y un café de Juan Valdez son productos, también lo son un viaje a Santa Marta, una asesoría o una capacitación en línea.
@@ -20,7 +20,7 @@
         .cajon.color-acento-contenido.p-4
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p La American Marketing Asociation (A.M.A.) define producto (en inglés: product) y menciona lo siguiente: “Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales”.
+              p La American #[em Marketing] Asociation (A.M.A.) define producto (en inglés: product) y menciona lo siguiente: “Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales”.
             .col-lg-2.col-6.col-sm-5 
               img(src='@/assets/curso/temas/Tema2/img2.png', alt='tema2')
     
@@ -43,10 +43,10 @@
           .bloque-texto-b.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h3.text-regular Para Kotler (2007), en su libro Marketing; un producto se define como “todo aquello que se puede ofrecer en el mercado para su atención, adquisición, consumo, que satisface un deseo o una necesidad”.
+              h3.text-regular Para Kotler (2007), en su libro #[em Marketing]; un producto se define como “todo aquello que se puede ofrecer en el mercado para su atención, adquisición, consumo, que satisface un deseo o una necesidad”.
               i.fas.fa-quote-right
     
-    p Desde la perspectiva de los clientes, se adquieren los productos como un medio para satisfacer sus necesidades, porque con ellos se compran los beneficios que trae consigo cada uno de ellos, es un “satisfactor de su necesidad”. Desde el punto de vista del vendedor, el producto es una herramienta que permite atraer clientes, por eso debe conocer muy bien los atributos del producto para que pueda divulgarlos y darlos a conocer de manera correcta. Desde el mercadeo, el producto es un elemento importante para toda la estrategia que se vaya a diseñar; es decir, el marketing mix, centra su planificación desde los beneficios del producto para obtener una mayor rentabilidad.
+    p Desde la perspectiva de los clientes, se adquieren los productos como un medio para satisfacer sus necesidades, porque con ellos se compran los beneficios que trae consigo cada uno de ellos, es un “satisfactor de su necesidad”. Desde el punto de vista del vendedor, el producto es una herramienta que permite atraer clientes, por eso debe conocer muy bien los atributos del producto para que pueda divulgarlos y darlos a conocer de manera correcta. Desde el mercadeo, el producto es un elemento importante para toda la estrategia que se vaya a diseñar; es decir, el #[em marketing] mix, centra su planificación desde los beneficios del producto para obtener una mayor rentabilidad.
     p El producto es un conjunto de elementos tangibles e intangibles que son percibidos por el cliente como los satisfactores de sus necesidades. El consumidor está en un constante aprendizaje, porque “compran algo más que un producto”, lo que compran es un conjunto de deseos, expectativas, ideales, entre otras cosas que se hacen tangibles con su adquisición.
 
     separador
@@ -120,7 +120,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
-        p El departamento de marketing debe prestar especial atención a estos atributos, enfocando sus esfuerzos en aquellos que sean más importantes para el público objetivo de su producto: el empaque, las garantías, los servicios, así como la marca coadyuvan a impactar el mercado meta.
+        p El departamento de #[em marketing] debe prestar especial atención a estos atributos, enfocando sus esfuerzos en aquellos que sean más importantes para el público objetivo de su producto: el empaque, las garantías, los servicios, así como la marca coadyuvan a impactar el mercado meta.
         p Los consumidores se basan en diversas características o diferenciadores para adquirir el producto. A continuación, se enlistan algunos atributos en los que se basan los consumidores para evaluar los productos o servicios, de acuerdo a Mullins (2007): 
 
 
@@ -177,13 +177,13 @@
         img(src='@/assets/curso/temas/Tema2/img013.png', alt='tema2')
       .col-lg-9
         p Los atributos del producto son puntos clave de diferenciación con los productos de la competencia e inciden directamente en la decisión de compra. Atributos como el diseño y el estilo, podrían ser los más importantes al momento de decidir la compra, pero, realmente, son todos los atributos que, en conjunto, motivan al consumidor. 
-        p De otro lado, la empresa concentra su decisión en atributos como la calidad, las características, el diseño, la marca, entre otros, para diseñar diferentes acciones de marketing que ayuden en la difusión de su estrategia de marketing en el público meta. Para la empresa, el seleccionar un nombre atractivo, el diseño del envase, diseño de la etiqueta y un conjunto de servicios que acompañen representan factores importantes para diferenciarse de la competencia y diseñar una adecuada estrategia de marketing.
+        p De otro lado, la empresa concentra su decisión en atributos como la calidad, las características, el diseño, la marca, entre otros, para diseñar diferentes acciones de #[em marketing] que ayuden en la difusión de su estrategia de #[em marketing] en el público meta. Para la empresa, el seleccionar un nombre atractivo, el diseño del envase, diseño de la etiqueta y un conjunto de servicios que acompañen representan factores importantes para diferenciarse de la competencia y diseñar una adecuada estrategia de #[em marketing].
 
     separador
     #t_2_2.titulo-segundo.mb-4
       h2 2.2. Niveles de productos
     
-    p.mb-3 “Un producto es más que una cosa”, es una afirmación dada por el economista Philip Kotler, experto reconocido en el campo del marketing. El producto debe satisfacer las diferentes necesidades del consumidor y agregar valor (beneficios percibidos) de acuerdo con esto, el autor afirma que existen cinco niveles de productos de acuerdo con el grado de percepción de sus beneficios, indicando así, el valor que el consumidor le asigna al producto. Un consumidor sólo estará satisfecho cuando el valor asignado sea igual o superior al valor esperado. 
+    p.mb-3 “Un producto es más que una cosa”, es una afirmación dada por el economista Philip Kotler, experto reconocido en el campo del #[em marketing]. El producto debe satisfacer las diferentes necesidades del consumidor y agregar valor (beneficios percibidos) de acuerdo con esto, el autor afirma que existen cinco niveles de productos de acuerdo con el grado de percepción de sus beneficios, indicando así, el valor que el consumidor le asigna al producto. Un consumidor sólo estará satisfecho cuando el valor asignado sea igual o superior al valor esperado. 
     p A continuación, se presentan los niveles del producto:
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -216,7 +216,7 @@
     
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12
-        p.mb-5 Al conocer el tipo de producto es posible definir cuál es el precio con el que puede lanzarse al mercado, identificar los canales de distribución en los que se puede comercializar, qué tipo de promoción, entre otros factores importantes, que ayudarán a la construcción del plan de marketing.
+        p.mb-5 Al conocer el tipo de producto es posible definir cuál es el precio con el que puede lanzarse al mercado, identificar los canales de distribución en los que se puede comercializar, qué tipo de promoción, entre otros factores importantes, que ayudarán a la construcción del plan de #[em marketing].
  
     separador
     #t_2_4.titulo-segundo.mb-4
@@ -279,7 +279,7 @@
       .col-lg-3.col-8
         img(src='@/assets/curso/temas/Tema2/img16.png', alt='tema2')
 
-    p El empaque fortalece las estrategias de marketing, aunque su objetivo es proteger el producto que lleva dentro, la función principal es promover la venta. 
+    p El empaque fortalece las estrategias de #[em marketing], aunque su objetivo es proteger el producto que lleva dentro, la función principal es promover la venta. 
     p El empaque representa la protección del producto contra factores que puedan afectar sus características físicas de frescura, sabor, color y textura, la comodidad que puede brindar el empaque para el almacenamiento y distribución, facilita el control de inventarios, manipulación y transporte. Así mismo, el empaque presenta información necesaria acerca del uso, los ingredientes y la composición del producto.
     
     separador
@@ -315,6 +315,9 @@
     #t_2_8.titulo-segundo.mb-4
       h2 2.8. Embalaje
     
+    p.mb-4 El embalaje es una forma de empaque que, principalmente, cumple la función de transportar el producto de un lugar a otro, como parte de un proceso logístico. El embalaje no necesariamente es en cajas, también puede ser un envoltorio plástico que se pone alrededor de uno o varios productos envasados o empaquetados.
+    p.mb-5 Los embalajes pueden clasificarse en 3 niveles:
+
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-1
         .tarjeta-avatar
@@ -324,7 +327,7 @@
               .py-4
               br
               h2.text-center Empaque primario
-              p Está en contacto directo con el producto
+              p Está en contacto directo con el producto.
               
              
       .col-md-6.col-lg.mb-5.mb-lg-1
@@ -352,7 +355,7 @@
       .col-lg-8
         img(src='@/assets/curso/temas/Tema2/img119.svg' alt='')
 
-    p El auge del comercio electrónico le ha dado mucha importancia al embalaje, pues garantiza que el producto llegue de forma segura al consumidor. Alimentos, kits de herramientas, ropa, medicamentos, entre otros, ya están llegando a las puertas de los clientes, por tanto, la empresa debe asegurar que el producto llegue intacto. 
+    p El auge del comercio electrónico le ha dado mucha importancia al embalaje, pues garantiza que el producto llegue de forma segura al consumidor. Alimentos, #[em kits] de herramientas, ropa, medicamentos, entre otros, ya están llegando a las puertas de los clientes, por tanto, la empresa debe asegurar que el producto llegue intacto. 
     
     separador
     #t_2_9.titulo-segundo.mb-4
