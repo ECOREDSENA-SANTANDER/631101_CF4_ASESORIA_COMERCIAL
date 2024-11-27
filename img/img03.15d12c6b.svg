@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1018" height="528.339" viewBox="0 0 1018 528.339">
+  <defs>
+    <filter id="Rectángulo_401264" x="0" y="0" width="405" height="225.654" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#0f1f33" flood-opacity="0.235"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_401266" x="0" y="302.685" width="405" height="225.654" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="#0f1f33" flood-opacity="0.235"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_401265" x="613" y="0" width="405" height="225.654" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-color="#0f1f33" flood-opacity="0.235"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_401267" x="613" y="302.685" width="405" height="225.654" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-color="#0f1f33" flood-opacity="0.235"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1102554" data-name="Grupo 1102554" transform="translate(-298 -2053.34)">
+    <g id="Grupo_1102294" data-name="Grupo 1102294">
+      <g transform="matrix(1, 0, 0, 1, 298, 2053.34)" filter="url(#Rectángulo_401264)">
+        <g id="Rectángulo_401264-2" data-name="Rectángulo 401264" transform="translate(30 27)" fill="#be79ca" stroke="#6e3dc6" stroke-width="1" opacity="0.503">
+          <rect width="345" height="165.654" rx="14" stroke="none"/>
+          <rect x="0.5" y="0.5" width="344" height="164.654" rx="13.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 298, 2053.34)" filter="url(#Rectángulo_401266)">
+        <g id="Rectángulo_401266-2" data-name="Rectángulo 401266" transform="translate(30 329.68)" fill="#be79ca" stroke="#6e3dc6" stroke-width="1" opacity="0.503">
+          <rect width="345" height="165.654" rx="14" stroke="none"/>
+          <rect x="0.5" y="0.5" width="344" height="164.654" rx="13.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 298, 2053.34)" filter="url(#Rectángulo_401265)">
+        <g id="Rectángulo_401265-2" data-name="Rectángulo 401265" transform="translate(643 27)" fill="#be79ca" stroke="#6e3dc6" stroke-width="1" opacity="0.503">
+          <rect width="345" height="165.654" rx="14" stroke="none"/>
+          <rect x="0.5" y="0.5" width="344" height="164.654" rx="13.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 298, 2053.34)" filter="url(#Rectángulo_401267)">
+        <g id="Rectángulo_401267-2" data-name="Rectángulo 401267" transform="translate(643 329.68)" fill="#be79ca" stroke="#6e3dc6" stroke-width="1" opacity="0.503">
+          <rect width="345" height="165.654" rx="14" stroke="none"/>
+          <rect x="0.5" y="0.5" width="344" height="164.654" rx="13.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Grupo_1102293" data-name="Grupo 1102293" transform="translate(587 2107.208)">
+        <path id="Trazado_874805" data-name="Trazado 874805" d="M687.669,442.725H881.181c-3.356-105.363-88.15-190.155-193.512-193.513Z" transform="translate(-481.181 -249.212)" fill="#6e36c9"/>
+        <path id="Trazado_874806" data-name="Trazado 874806" d="M742.333,442.725V249.212c-105.361,3.358-190.155,88.15-193.513,193.513Z" transform="translate(-548.82 -249.212)" fill="#6e36c9"/>
+        <path id="Trazado_874807" data-name="Trazado 874807" d="M687.669,388.06V581.573c105.361-3.358,190.155-88.15,193.512-193.513Z" transform="translate(-481.181 -181.573)" fill="#6e36c9"/>
+        <path id="Trazado_874808" data-name="Trazado 874808" d="M742.333,388.06H548.82c3.358,105.363,88.152,190.155,193.513,193.513Z" transform="translate(-548.82 -181.573)" fill="#6e36c9"/>
+      </g>
+      <path id="Trazado_874805-2" data-name="Trazado 874805" d="M661.464,395.963a36.671,36.671,0,0,0,63.635,0" transform="translate(93.054 1929.485)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+      <path id="Trazado_874806-2" data-name="Trazado 874806" d="M725.1,377.472a36.672,36.672,0,0,0-63.635,0" transform="translate(93.054 1911.495)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+      <path id="Polígono_22" data-name="Polígono 22" d="M7.5,0,15,13H0Z" transform="translate(744.665 2324.254) rotate(-34)" fill="#fff"/>
+      <path id="Polígono_23" data-name="Polígono 23" d="M7.5,0,15,13H0Z" transform="matrix(-0.848, 0.53, -0.53, -0.848, 828.958, 2291.986)" fill="#fff"/>
+      <text id="Presencial" transform="translate(651 2234.024)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Presencial</tspan></text>
+      <text id="Proactiva_Reactiva" data-name="Proactiva /
+Reactiva" transform="translate(698 2384.024)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-48.823" y="0">Proactiva /</tspan><tspan x="-39.053" y="27">Reactiva</tspan></text>
+      <text id="Virtual" transform="translate(878 2402.024)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-30.518" y="0">Virtual</tspan></text>
+      <text id="Telefónica" transform="translate(829 2234.024)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Telefónica</tspan></text>
+      <text id="Es_la_más_tradicional._Es_el_contacto_cara_a_cara_y_es_común_en_supermercados_o_almacenes." data-name="Es la más tradicional. Es el contacto cara a cara y es común en supermercados o almacenes." transform="translate(357 2125.994)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Es la más tradicional. Es el contacto </tspan><tspan x="0" y="37">cara a cara y es común en </tspan><tspan x="0" y="59">supermercados o almacenes.</tspan></text>
+      <text id="Esta_relacionado_con_el_contacto_con_el_cliente._Productivo_cuando_la_empresa_se_comunica_con_el_cliente._Reactivo_cuando_es_el_cliente_quien_solicita_atención_en_cualquier_momento_PQRS_." data-name="Esta relacionado con el contacto con el cliente. Productivo, cuando la empresa se comunica con el cliente. Reactivo, cuando es el cliente quien solicita atención en cualquier momento (PQRS)." transform="translate(357 2404.024)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Esta relacionado con el contacto </tspan><tspan x="0" y="37">con el cliente. Productivo, cuando la </tspan><tspan x="0" y="59">empresa se comunica con el cliente. </tspan><tspan x="0" y="81">Reactivo, cuando es el cliente quien </tspan><tspan x="0" y="103">solicita atención en cualquier </tspan><tspan x="0" y="125">momento (PQRS).</tspan></text>
+      <text id="Esta_siempre_será_una_estrategia_efectiva._Juega_un_papel_importante_el_tono_de_voz_la_fluidez_y_claridad_para_dar_información." data-name="Esta siempre será una estrategia efectiva. Juega un papel importante el tono de voz, la fluidez y claridad para dar información." transform="translate(970 2125.994)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="42.625" y="15">Esta siempre será una estrategia </tspan><tspan x="3.742" y="37">efectiva. Juega un papel importante el </tspan><tspan x="14.055" y="59">tono de voz, la fluidez y claridad para </tspan><tspan x="157.945" y="81">dar información.</tspan></text>
+      <text id="Con_el_auge_de_las_TIC_el_contacto_por_email_chat_redes_sociales_y_otros_canales_digitales_se_ha_convertido_en_una_estrategia_imprescindible_para_toda_la_organización." data-name="Con el auge de las TIC, el contacto por email, chat, redes sociales y otros canales digitales se ha convertido en una estrategia imprescindible para toda la organización." transform="translate(976 2416.024)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="3.43" y="15">Con el auge de las TIC, el contacto por </tspan><tspan x="35.836" y="37">email, chat, redes sociales y otros </tspan><tspan x="12.609" y="59">canales digitales se ha convertido en </tspan><tspan x="30.055" y="81">una estrategia imprescindible para </tspan><tspan x="126.734" y="103">toda la organización.</tspan></text>
+    </g>
+  </g>
+</svg>
