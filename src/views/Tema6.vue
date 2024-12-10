@@ -7,7 +7,7 @@
         span 6
       h1 Propuesta comercial
     
-    p.mb-5 La propuesta comercial es un documento en el que el cliente tendrá toda la información sobre el producto o servicio que desea adquirir, incluyendo plazos de entrega, alcance de trabajo, valores y formas de pago. Se debe tener en cuenta
+    p.mb-5 La propuesta comercial es un documento en el que el cliente tendrá toda la información sobre el producto o servicio que desea adquirir, incluyendo plazos de entrega, alcance de trabajo, valores y formas de pago. 
     
     .row.align-items-center.justify-content-center.mb-4(data-aos="zoom-in")
       .col-lg-10.col-md-12.col-sm-12
