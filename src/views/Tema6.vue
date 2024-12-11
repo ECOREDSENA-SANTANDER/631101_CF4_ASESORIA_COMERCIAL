@@ -86,7 +86,7 @@
                     i.fas.fa-check-circle
                     span.mb-2 Términos de confidencialidad (si los hay).
 
-            p Finalmente, la propuesta debe cerrarse con información de la empresa que la presenta, esto con el fin de generar confianza con los términos que se expresan en el documento
+            p Finalmente, la propuesta debe cerrarse con información de la empresa que la presenta, esto con el fin de generar confianza con los términos que se expresan en el documento.
             .col-lg-12.col-md-12.col-sm-12
                 ul.lista-ul--color.fa-al.p-3
                   li.mb-0 

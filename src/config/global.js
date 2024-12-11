@@ -263,14 +263,6 @@ export default {
     {
       tema: '2. El producto ',
       referencia:
-        'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos De Marketing. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración.',
-      tipo: 'Libro ',
-      link:
-        'https://z-library.rs/book/5975950/a900ad/fundamentos-de-marketing.html',
-    },
-    {
-      tema: '2. El producto ',
-      referencia:
         'Negocios en Tu Mundo, negocios en TM. (2012). Emprendedores a diferenciar sus productos Nada de commodities. [Video]. YouTube.',
       tipo: 'Video ',
       link: 'https://youtu.be/GGAGkqStMJw',
@@ -327,12 +319,12 @@ export default {
     {
       termino: 'Producto',
       significado:
-        'conjunto de elementos tangibles e intangibles que son percibidos por el cliente como los satisfactores de sus necesidades ',
+        'conjunto de elementos tangibles e intangibles que son percibidos por el cliente como los satisfactores de sus necesidades. ',
     },
     {
       termino: 'Reactivo',
       significado:
-        'Persona que actúa reaccionando a las circunstancias externas',
+        'Persona que actúa reaccionando a las circunstancias externas.',
     },
     {
       termino: '<i>Stock</i>',
@@ -344,8 +336,7 @@ export default {
     {
       referencia:
         'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos De Marketing. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración.',
-      link:
-        'https://z-library.rs/book/5975950/a900ad/fundamentos-de-marketing.html',
+      link: '',
     },
     {
       referencia:
