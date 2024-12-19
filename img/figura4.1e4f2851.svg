@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="345" viewBox="0 0 504 345">
+  <g id="Grupo_1100862" data-name="Grupo 1100862" transform="translate(-514 -7427.087)">
+    <rect id="Rectángulo_401186" data-name="Rectángulo 401186" width="119" height="45" transform="translate(753 7427.087)" fill="#6e3dc6"/>
+    <rect id="Rectángulo_401187" data-name="Rectángulo 401187" width="118" height="44" transform="translate(602 7479.087)" fill="#be79ca"/>
+    <rect id="Rectángulo_401189" data-name="Rectángulo 401189" width="118" height="28" transform="translate(514 7558.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401199" data-name="Rectángulo 401199" width="118" height="28" transform="translate(900 7558.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401200" data-name="Rectángulo 401200" width="118" height="28" transform="translate(900 7604.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401201" data-name="Rectángulo 401201" width="118" height="28" transform="translate(900 7651.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401202" data-name="Rectángulo 401202" width="118" height="28" transform="translate(900 7698.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401194" data-name="Rectángulo 401194" width="155" height="28" transform="translate(654 7558.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401190" data-name="Rectángulo 401190" width="118" height="28" transform="translate(514 7604.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401195" data-name="Rectángulo 401195" width="155" height="28" transform="translate(654 7604.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401191" data-name="Rectángulo 401191" width="118" height="28" transform="translate(514 7651.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401196" data-name="Rectángulo 401196" width="155" height="28" transform="translate(654 7651.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401192" data-name="Rectángulo 401192" width="118" height="28" transform="translate(514 7698.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401197" data-name="Rectángulo 401197" width="155" height="28" transform="translate(654 7698.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401193" data-name="Rectángulo 401193" width="118" height="28" transform="translate(514 7744.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401198" data-name="Rectángulo 401198" width="155" height="28" transform="translate(654 7744.087)" fill="#75baf1"/>
+    <rect id="Rectángulo_401188" data-name="Rectángulo 401188" width="118" height="44" transform="translate(900 7479.087)" fill="#be79ca"/>
+    <text id="Producto" transform="translate(813 7454.087)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-41.099" y="0">Producto</tspan></text>
+    <text id="Generales" transform="translate(657 7506.087)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-36.227" y="0">Generales</tspan></text>
+    <text id="Tangibles" transform="translate(573 7577.087)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-34.32" y="0">Tangibles</tspan></text>
+    <text id="Precio" transform="translate(574 7624.087)" fill="#12263f" font-size="17" font-family="Roboto-Regular, Roboto"><tspan x="-24.022" y="0">Precio</tspan></text>
+    <text id="Diseño" transform="translate(574 7671.087)" fill="#12263f" font-size="17" font-family="Roboto-Regular, Roboto"><tspan x="-26.06" y="0">Diseño</tspan></text>
+    <text id="Envase" transform="translate(574 7718.087)" fill="#12263f" font-size="17" font-family="Roboto-Regular, Roboto"><tspan x="-27.085" y="0">Envase</tspan></text>
+    <text id="Etiquetado" transform="translate(573 7763.087)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-38.336" y="0">Etiquetado</tspan></text>
+    <text id="Intangibles" transform="translate(730 7577.087)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-39.191" y="0">Intangibles</tspan></text>
+    <text id="Peso" transform="translate(962 7577.087)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-17.922" y="0">Peso</tspan></text>
+    <text id="Calidad" transform="translate(731 7623.087)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-26.816" y="0">Calidad</tspan></text>
+    <text id="Densidad" transform="translate(962 7623.087)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-33.34" y="0">Densidad</tspan></text>
+    <text id="Marcas_o_símbolos" data-name="Marcas o símbolos" transform="translate(729 7670.087)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-67.949" y="0">Marcas o símbolos</tspan></text>
+    <text id="Material" transform="translate(962 7670.087)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-29.129" y="0">Material</tspan></text>
+    <text id="Imagen_corporativa" data-name="Imagen corporativa" transform="translate(729 7717.087)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-68.793" y="0">Imagen corporativa</tspan></text>
+    <text id="Volumen" transform="translate(962 7717.087)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-31.488" y="0">Volumen</tspan></text>
+    <text id="Servicios" transform="translate(731 7763.087)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-32.395" y="0">Servicios</tspan></text>
+    <text id="Técnicas" transform="translate(962 7506.087)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-32.273" y="0">Técnicas</tspan></text>
+    <line id="Línea_344" data-name="Línea 344" y2="32.139" transform="translate(813.102 7472.186)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_345" data-name="Línea 345" x2="179.357" transform="translate(720.831 7504.325)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_346" data-name="Línea 346" y2="17.625" transform="translate(659.663 7524.023)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_347" data-name="Línea 347" x2="159.659" transform="translate(574.65 7544.758)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_348" data-name="Línea 348" y1="18.661" transform="translate(573.613 7586.228)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_354" data-name="Línea 354" y1="18.661" transform="translate(734.309 7586.228)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_349" data-name="Línea 349" y1="18.661" transform="translate(573.613 7632.881)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_353" data-name="Línea 353" y1="18.661" transform="translate(734.309 7632.881)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_350" data-name="Línea 350" y1="18.661" transform="translate(573.613 7679.535)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_355" data-name="Línea 355" y1="18.661" transform="translate(734.309 7679.535)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_351" data-name="Línea 351" y1="18.661" transform="translate(573.613 7726.188)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_356" data-name="Línea 356" y1="18.661" transform="translate(734.309 7726.188)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_352" data-name="Línea 352" y1="13.478" transform="translate(574.65 7544.758)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_357" data-name="Línea 357" y1="13.478" transform="translate(734.309 7544.758)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_358" data-name="Línea 358" y2="34.213" transform="translate(959.283 7524.023)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_359" data-name="Línea 359" y2="18.661" transform="translate(959.283 7586.228)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_360" data-name="Línea 360" y2="18.661" transform="translate(959.283 7632.881)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Línea_361" data-name="Línea 361" y2="18.661" transform="translate(959.283 7679.535)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
