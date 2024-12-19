@@ -38,7 +38,7 @@
       h2 4.2. Características del servicio
     
     p Aunque muchos de los conceptos relacionados con el servicio al cliente son perceptuales y pueden ser adaptados de acuerdo con cada cliente, siempre encontraremos características comunes, entre ellas:
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left", alt='La tabla posee dos columnas y  8 filas, se definen las características del servicio: disponible, accesible, cortés, ágil, competente, confiable y con buena comunicación.')
       .col-lg-10
         .titulo-sexto.color-secundario.mb-5
           h5 Tabla 2.

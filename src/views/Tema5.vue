@@ -59,7 +59,7 @@
       h2  5.3. Tipos de negociación
     p Se evidencian dos tipos de negociación, la negociación cooperativa y la negociación competitiva. En el siguiente cuadro comparativo se presentan los tipos de negociación y algunos ítems importantes:
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left", alt='La tabla posee 4 columnas y 12 filas, se mencionan doce criterios y para cada uno la descripción en negociación cooperativa, en negociación competitiva y en el método Harvard.')
       .col-lg-12
         .titulo-sexto.color-secundario.mb-5
           h5 Tabla 3.

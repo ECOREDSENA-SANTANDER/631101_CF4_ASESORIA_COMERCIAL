@@ -109,7 +109,7 @@
             h3 coherencia, rentabilidad, fidelidad y dinamismo 
             i.fas.fa-quote-right
 
-    .row.justify-content-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.mb-5(data-aos="fade-left", alt='La tabla posee la descripción de las cualidades del surtido: coherencia, rentabilidad, fidelidad y dinamismo.')
       .col-lg-12
         .titulo-sexto.color-secundario.mb-5
           h5 Tabla 1.

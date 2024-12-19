@@ -295,7 +295,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 5. 
           | Etiqueta
-        img(src='@/assets/curso/temas/Tema2/figura5.svg' alt='')
+        img(src='@/assets/curso/temas/Tema2/figura5.svg' alt='El diagrama de  flujo menciona las características de la etiqueta, su funcionalidad y la información que contiene')
 
     separador
     #t_2_7.titulo-segundo.mb-4
@@ -308,7 +308,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 6. 
           | El envase contiene el producto y lo protege de los agentes externos
-        img(src='@/assets/curso/temas/Tema2/figura6.png' alt='')
+        img(src='@/assets/curso/temas/Tema2/figura6.png' alt='La figura presenta dos imágenes que representan diferentes tipos de envases.')
     p En algunos casos, el empaque y el envase son lo mismo; por ejemplo, en el caso de los medicamentos como jarabes o pastillas, el envase contiene el medicamento y el empaque es la caja que los protege.
 
     separador
