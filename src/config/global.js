@@ -361,7 +361,7 @@ export default {
     },
     {
       referencia:
-        'Negocios en Tu Mundo, negocios en TM. (2012). Emprendedores a diferenciar sus productos Nada de commodities.',
+        'Negocios en Tu Mundo, negocios en TM. (2012). Emprendedores a diferenciar sus productos. Nada de commodities.',
       link: 'https://youtu.be/GGAGkqStMJw',
     },
     {
@@ -407,12 +407,12 @@ export default {
         {
           nombre: 'Paolo Andrés Cantillo Largo ',
           cargo: 'Experto temático ',
-          centro: 'Centro de comercio Regional Antioquia ',
+          centro: 'Centro de comercio - Regional Antioquia',
         },
         {
           nombre: 'Zenith Chinchilla Ruedas ',
           cargo: 'Diseñador Instruccional ',
-          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología ',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',

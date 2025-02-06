@@ -46,7 +46,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 7. 
           | Dimensiones del surtido 
-        img(src='@/assets/curso/temas/Tema3/img02.svg' alt='la figura presenta tres texto representados por un diagrama. -Amplitud: cantidad de líneas de productos en el surtido. -Profundidad: numero de referencias de la línea (referencia 1 y referencia dos). Longitud: total de referencias por productos comercializadas. (dos productos por cada referencia). El diagrama presenta la linea en la parte superior, la cual dse divide en dos referencias, y estas a su vez se dividen en dos productos cada una. ')
+        img(src='@/assets/curso/temas/Tema3/img02.svg' alt='La figura presenta tres texto representados por un diagrama. Amplitud: cantidad de líneas de productos en el surtido. Profundidad: numero de referencias de la línea (referencia 1 y referencia dos). Longitud: total de referencias por productos comercializadas. (dos productos por cada referencia). El diagrama presenta la linea en la parte superior, la cual dse divide en dos referencias, y estas a su vez se dividen en dos productos cada una.')
    
     separador
     #t_3_3.titulo-segundo.mb-4
@@ -59,7 +59,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 8. 
           | Clasificación del surtido
-        img(src='@/assets/curso/temas/Tema3/img03.svg' alt='la figura define los siguientes conceptos: -Departamento: grandes divisiones que agrupan secciones. Ejemplo: hombres. -Sección: Unidades que agrupan varias categorías de productos homogéneos. Ejemplo: Ropa de hombres, calzado de hombres. Categoría: Agrupan varias familias en función de la necesidad que satisfacen los productos que la forman. Ejemplo: Ropa interior, ropa exterior, calzado deportivo, calzado formal de hombres. -Familia: Conjunto de artículos que satisfacen la misma necesidad. Ejemplo: ropa exterior camisas, ropa exterior pantalones. -Subfamilia: divisiones dentro de cada familia. Ejemplo: ropa exterior camisas en tejido de punto y en tejido plano en diferentes tallas. -Referencia: corresponde a las unidades de venta. Ejemplo: ropa exterior camisa en tejido de punto marca Gef en talla XL azul.')
+        img(src='@/assets/curso/temas/Tema3/img03.svg' alt='La figura define los siguientes conceptos: -Departamento: grandes divisiones que agrupan secciones. Ejemplo: hombres. -Sección: Unidades que agrupan varias categorías de productos homogéneos. Ejemplo: Ropa de hombres, calzado de hombres. Categoría: Agrupan varias familias en función de la necesidad que satisfacen los productos que la forman. Ejemplo: Ropa interior, ropa exterior, calzado deportivo, calzado formal de hombres. -Familia: Conjunto de artículos que satisfacen la misma necesidad. Ejemplo: ropa exterior camisas, ropa exterior pantalones. -Subfamilia: divisiones dentro de cada familia. Ejemplo: ropa exterior camisas en tejido de punto y en tejido plano en diferentes tallas. -Referencia: corresponde a las unidades de venta. Ejemplo: ropa exterior camisa en tejido de punto marca Gef en talla XL azul.')
 
     separador
     #t_3_4.titulo-segundo.mb-4
@@ -101,12 +101,11 @@
         .bloque-texto-b.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h3.mb-0 Según Diez de Castro (2006):
+            p.mb-0 Según Diez de Castro (2006):
             br
+            p Las cualidades del surtido se pueden medir a través de cuatro factores: 
             br
-            h3 Las cualidades del surtido se pueden medir a través de cuatro factores: 
-            br
-            h3 coherencia, rentabilidad, fidelidad y dinamismo 
+            p coherencia, rentabilidad, fidelidad y dinamismo 
             i.fas.fa-quote-right
 
     .row.justify-content-center.mb-5(data-aos="fade-left", alt='La tabla posee la descripción de las cualidades del surtido: coherencia, rentabilidad, fidelidad y dinamismo.')

@@ -21,8 +21,8 @@
       
     separador
     #t_7_2.titulo-segundo.mb-4
-      h2 Entre las herramientas ofimáticas, encontramos:
-   
+      h2 7.2 Tipos de herramientas 
+      
     p Entre las herramientas ofimáticas, encontramos:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left", alt='La tabla posee tres columnas y 5 filas, donde se describen 5 tipos de herramientas ofimáticas: procesador de texto, hoja de cálculo, bases de datos, presentaciones.  De cada una de ellas hay una descripción y algunos ejemplos.')

@@ -52,7 +52,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 10. 
           | Etapas de negociación
-        img(src='@/assets/curso/temas/Tema5/img02.svg', alt='en la figura se definen las siguientes etapas:  -Preparación: se define el alcance. Objetivos propios. -Discusión: Identificación de necesidades. Se evalúa la disposición para negociar. -Propuestas: diseño de la propuesta de negocio. Intercambio de propuestas. -Cierre: Aquí se enmarca el acuerdo final y cierre del negocio.')
+        img(src='@/assets/curso/temas/Tema5/img02.svg', alt='En la figura se definen las siguientes etapas:  -Preparación: se define el alcance. Objetivos propios. -Discusión: Identificación de necesidades. Se evalúa la disposición para negociar. -Propuestas: diseño de la propuesta de negocio. Intercambio de propuestas. -Cierre: Aquí se enmarca el acuerdo final y cierre del negocio.')
 
     separador
     #t_5_3.titulo-segundo.mb-4
@@ -69,65 +69,65 @@
             thead
               tr
                 th Característica
-                th Negociación Cooperativa
-                th Negociación Competitiva
-                th Método Harvard
+                th Negociación Cooperativa.
+                th Negociación Competitiva.
+                th Método Harvard.
             tbody
               tr
                 td.text-center Participantes
-                td Amigos
-                td Adversarios
-                td Solucionador
+                td Amigos.
+                td Adversarios.
+                td Solucionador.
               tr
                 td.text-center Meta
-                td Generar un acuerdo
-                td Que haya un ganador
-                td SBuen acuerdo entre las partes
+                td Generar un acuerdo.
+                td Que haya un ganador.
+                td SBuen acuerdo entre las partes.
 
               tr
                 td.text-center Relación
-                td Se cultiva una relación de largo plazo
-                td Hay un relacionamiento con condición
-                td Se cultiva una relación de largo plazo
+                td Se cultiva una relación de largo plazo.
+                td Hay un relacionamiento con condición.
+                td Se cultiva una relación de largo plazo.
               tr
                 td.text-center Concesiones
-                td Se hace una concesión
-                td Se demanda una concesión
-                td Según los términos se hace o se demanda
+                td Se hace una concesión.
+                td Se demanda una concesión.
+                td Según los términos se hace o se demanda.
               tr
                 td.text-center Con el problema
-                td Usualmente el problema no es grave
-                td Se presenta principalmente con problemas graves
-                td Se presenta principalmente con problemas graves
+                td Usualmente el problema no es grave.
+                td Se presenta principalmente con problemas graves.
+                td Se presenta principalmente con problemas graves.
               tr
                 td.text-center Con la gente
-                td Buen trato y cordialidad
-                td Buen trato
-                td Buen trato y cordialidad
+                td Buen trato y cordialidad.
+                td Buen trato.
+                td Buen trato y cordialidad.
               tr
                 td.text-center Con los otros
-                td Relación de confianza
-                td Relación de “desconfianza”
-                td Neutral
+                td Relación de confianza.
+                td Relación de “desconfianza”.
+                td Neutral.
               tr
                 td.text-center Posición
-                td Flexibilidad
-                td Rígidos y estrictos
-                td Según el interés
+                td Flexibilidad.
+                td Rígidos y estrictos.
+                td Según el interés.
               tr
                 td.text-center Avance
-                td Se hacen ofertas
-                td Se condiciona la oferta
-                td Se exploran intereses
+                td Se hacen ofertas.
+                td Se condiciona la oferta.
+                td Se exploran intereses.
               tr
                 td.text-center Límites
-                td Se definen los límites
-                td Se esconden
-                td Se evita tenerlos
+                td Se definen los límites.
+                td Se esconden.
+                td Se evita tenerlos.
               tr
                 td.text-center Unilateralidad
-                td Se aceptan pérdidas (si las hay)
-                td Se demandan las ganancias
+                td Se aceptan pérdidas (si las hay).
+                td Se demandan las ganancias.
                 td La ganancia es mutua.
 
             

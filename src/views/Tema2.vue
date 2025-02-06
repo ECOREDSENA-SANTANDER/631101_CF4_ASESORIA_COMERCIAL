@@ -20,7 +20,7 @@
         .cajon.color-acento-contenido.p-4
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p La American #[em Marketing] Asociation (A.M.A.) define producto (en inglés: product) y menciona lo siguiente: “Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales”.
+              p La American Marketing Asociation (A.M.A.) define producto (en inglés: product) y menciona lo siguiente: “Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales”.
             .col-lg-2.col-6.col-sm-5 
               img(src='@/assets/curso/temas/Tema2/img2.png', alt='tema2')
     
@@ -129,7 +129,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 1. 
           | Atributos del producto
-        img(src='@/assets/curso/temas/Tema2/img01.svg' alt='La imagen define los siguientes atributos:  -Atributos de costo: precio de  compra, costos de operación, costos de reparación, costos extras, costos de instalación, rebaja por cambio, probable valor de reventa. -Atributos de rendimiento: durabilidad, calidad de los materiales, construcción, confiabilidad, rendimiento funcional, eficiencia, seguridad. -Atributos sociales: prestigio de la marca, imagen de estado, popularidad con amigos y miembros de la familia, estilo, moda. -Atributos de disponibilidad: vendido por tiendas locales, términos de crédito, calidad de servicio de un distribuidor local, tiempo de entrega.')
+        img(src='@/assets/curso/temas/Tema2/img01.svg' alt='La imagen define los siguientes atributos:  Atributos de costo: precio de  compra, costos de operación, costos de reparación, costos extras, costos de instalación, rebaja por cambio, probable valor de reventa. Atributos de rendimiento: durabilidad, calidad de los materiales, construcción, confiabilidad, rendimiento funcional, eficiencia, seguridad. Atributos sociales: prestigio de la marca, imagen de estado, popularidad con amigos y miembros de la familia, estilo, moda. Atributos de disponibilidad: vendido por tiendas locales, términos de crédito, calidad de servicio de un distribuidor local, tiempo de entrega.')
     .py-3
     p Existen otros atributos que, sin ser tangibles, juegan un papel importante en la toma de decisiones para la adquisición de un producto, estos son:
     .py-3
@@ -211,7 +211,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 3. 
           | Productos industriales
-        img(src='@/assets/curso/temas/Tema2/figura3.svg' alt='El diagrama define los siguientes tipos de productos industriales: -De capital: ayudan en la producción o las operaciones del comprador -Materiales y refacciones: materias primas, materiales y componentes manufacturados. -Suministros y servicios: artículos para reparación, mantenimiento y servicios de negocio')
+        img(src='@/assets/curso/temas/Tema2/figura3.svg' alt='El diagrama define los siguientes tipos de productos industriales: -De capital: ayudan en la producción o las operaciones del comprador -Materiales y refacciones: materias primas, materiales y componentes manufacturados. -Suministros y servicios: artículos para reparación, mantenimiento y servicios de negocio.')
     
     
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
@@ -228,7 +228,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 4. 
           | Características del producto
-        img(src='@/assets/curso/temas/Tema2/figura4.svg' alt='el diagrama menciona como características generales dos tipos: tangibles e intangibles; dentro de las tangibles están el precio, el diseño, el envase y el etiquetado; en las intangibles se menciona la calidad, las marcas o símbolos, la imagen corporativa y los servicios. Por otro lado se encuentran las características técnicas: peso, densidad, material y volumen.')
+        img(src='@/assets/curso/temas/Tema2/figura4.svg' alt='El diagrama menciona como características generales dos tipos: tangibles e intangibles; dentro de las tangibles están el precio, el diseño, el envase y el etiquetado; en las intangibles se menciona la calidad, las marcas o símbolos, la imagen corporativa y los servicios. Por otro lado se encuentran las características técnicas: peso, densidad, material y volumen.')
     p En las principales características del producto, tenemos aquellas que pueden clasificarse en orden general y aquellas que son técnicas. Encontrando:
 
     .row.justify-content-center.align-items-center.mb-0
@@ -239,16 +239,16 @@
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-5.bg01.p-4.text-white
         h3 Tangibles:
-        p.mb-0 Precio: el precio es el monto o valor económico (en moneda) que se asigna a un producto con el fin que pueda ser adquirido por el cliente o consumidor.
-        p.mb-0  Diseño: el diseño en un producto se refiere a la combinación de la tipografía, color, forma, tamaño, material, entre otros, que constituyen el aspecto visual del producto.
-        p.mb-0  Envase: es el contenedor que mantiene o contiene el producto y lo protege de agentes externos.
-        p.mb-0  Etiquetado: es la pieza que completa el empaque de todo tipo de producto, presenta la información de ingredientes, composición, material, instrucciones, entre otras para manipular correctamente el producto.
+        p.mb-0 #[b Precio:] el precio es el monto o valor económico (en moneda) que se asigna a un producto con el fin que pueda ser adquirido por el cliente o consumidor.
+        p.mb-0  #[b Diseño:] el diseño en un producto se refiere a la combinación de la tipografía, color, forma, tamaño, material, entre otros, que constituyen el aspecto visual del producto.
+        p.mb-0  #[b Envase:] es el contenedor que mantiene o contiene el producto y lo protege de agentes externos.
+        p.mb-0  #[b Etiquetado:] es la pieza que completa el empaque de todo tipo de producto, presenta la información de ingredientes, composición, material, instrucciones, entre otras para manipular correctamente el producto.
       .col-lg-5.bg04.p-4
         h3 Intangibles:
-        p.mb-0  Calidad: es la percepción que el cliente tiene del producto en su totalidad, no solo por sus atributos tangibles, sino también por sus beneficios, valores agregados, etc.
-        p.mb-0  Marcas o símbolos: es la imagen que permite que los consumidores identifiquen el producto.
-        p.mb-0  Imagen corporativa: es la identidad visual de la empresa que representa al producto y lo posiciona.
-        p.mb-5 Servicios: los servicios asociados al producto, hacen parte del acompañamiento o garantías que la empresa pone al servicio del cliente.
+        p.mb-0  #[b Calidad:] es la percepción que el cliente tiene del producto en su totalidad, no solo por sus atributos tangibles, sino también por sus beneficios, valores agregados, etc.
+        p.mb-0  #[b Marcas o símbolos:] es la imagen que permite que los consumidores identifiquen el producto.
+        p.mb-0  #[b Imagen corporativa:] es la identidad visual de la empresa que representa al producto y lo posiciona.
+        p.mb-5 #[b Servicios:] los servicios asociados al producto, hacen parte del acompañamiento o garantías que la empresa pone al servicio del cliente.
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-5.bg02.p-2.text-center
           h4 Técnicas
@@ -295,7 +295,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 5. 
           | Etiqueta
-        img(src='@/assets/curso/temas/Tema2/figura5.svg' alt='El diagrama de  flujo menciona las características de la etiqueta, su funcionalidad y la información que contiene')
+        img(src='@/assets/curso/temas/Tema2/figura5.svg' alt='El diagrama de  flujo menciona las características de la etiqueta, su funcionalidad y la información que contiene.')
 
     separador
     #t_2_7.titulo-segundo.mb-4
